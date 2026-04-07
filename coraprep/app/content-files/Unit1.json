@@ -1,0 +1,456 @@
+{
+  "Unit 1: Brain Structure and Function": {
+    "Cerebrum": {
+      "Definition": {
+        "Question": "What is the largest part of the human brain?",
+        "Answer": "The cerebrum"
+      },
+      "Structure": {
+        "Question": "What is the structure of the cerebrum?",
+        "Answer": "Two large, separate hemispheres on each side of the brain",
+        "Connection": {
+          "Question": "What connects the hemispheres?",
+          "Answer": "Corpus callosum",
+          "Function": {
+            "Question": "What does the corpus callosum do?",
+            "Answer": "Transmits information between hemispheres"
+          }
+        }
+      },
+      "Cerebral Cortex": {
+        "Question": "What is the surface of the cerebrum called?",
+        "Answer": "Cerebral cortex",
+        "Structure": {
+          "Question": "What is the structure of the cerebral cortex?",
+          "Answer": "Deeply folded layer of nerve tissue",
+          "Purpose of Folds": {
+            "Question": "What is the purpose of the folds in the cerebral cortex?",
+            "Answer": "Increase surface area, allowing more neurons and greater processing power"
+          }
+        }
+      },
+      "Lobes": {
+        "Frontal Lobes": {
+          "Location": {
+            "Question": "Where are the frontal lobes located?",
+            "Answer": "Front of the brain, above the eyes"
+          },
+          "Function": {
+            "Question": "What is the function of the frontal lobes?",
+            "Answer": "Coordinate voluntary movement, speech, memory, emotion, higher cognition, and personality"
+          }
+        },
+        "Parietal Lobes": {
+          "Location": {
+            "Question": "Where are the parietal lobes located?",
+            "Answer": "Top of the brain, behind frontal lobes"
+          },
+          "Function": {
+            "Question": "What is the function of the parietal lobes?",
+            "Answer": "Integrate sensory signals, process taste and some visual information"
+          }
+        },
+        "Occipital Lobes": {
+          "Location": {
+            "Question": "Where are the occipital lobes located?",
+            "Answer": "Back of the brain"
+          },
+          "Function": {
+            "Question": "What is the function of the occipital lobes?",
+            "Answer": "Process visual information, recognize colors and shapes"
+          }
+        },
+        "Temporal Lobes": {
+          "Location": {
+            "Question": "Where are the temporal lobes located?",
+            "Answer": "Sides of the brain, near the ears"
+          },
+          "Function": {
+            "Question": "What is the function of the temporal lobes?",
+            "Answer": "Interpret auditory information and assist in visual processing"
+          }
+        }
+      }
+    },
+
+    "Limbic System": {
+      "Definition": {
+        "Question": "What is the limbic system?",
+        "Answer": "A group of structures that regulate emotion and motivation"
+    },
+      "Structures": {
+        "Hippocampus": {
+          "Location": {
+            "Question": "Where is the hippocampus located?",
+            "Answer": "Beneath the cerebral cortex in the temporal lobes"
+          },
+          "Function": {
+            "Question": "What is the function of the hippocampus?",
+            "Answer": "Encodes new memories"
+          }
+        },
+        "Amygdala": {
+          "Location": {
+            "Question": "Where is the amygdala located?",
+            "Answer": "Temporal lobes"
+          },
+          "Function": {
+            "Question": "What is the function of the amygdala?",
+            "Answer": "Integrates memory and emotion"
+          }
+        },
+        "Thalamus": {
+          "Function": {
+            "Question": "What is the function of the thalamus?",
+            "Answer": "Integrates sensory information and relays it to other brain regions"
+          }
+        },
+        "Hypothalamus": {
+          "Function": {
+            "Question": "What is the function of the hypothalamus?",
+            "Answer": "Maintains homeostasis and sends hormonal signals; regulates hunger, thirst, and temperature"
+          }
+        }
+      }
+    },
+
+    "Midbrain": {
+      "Location": {
+        "Question": "Where is the midbrain located?",
+        "Answer": "Beneath the thalamus"
+      },
+      "Function": {
+        "Question": "What is the function of the midbrain?",
+        "Answer": "Coordinates eye movements, inhibits unwanted movements, and integrates sensory and motor signals"
+      }
+    },
+
+    "Basal Ganglia": {
+      "Definition": {
+        "Question": "What is the basal ganglia?",
+        "Answer": "A neural network of structures in the midbrain and forebrain that regulate movement"
+      },
+      "Function": {
+        "Question": "What is the function of the basal ganglia?",
+        "Answer": "Processes movement signals and sends feedback to the cortex"
+      },
+      "Parkinson's Disease": {
+        "Cause": {
+          "Question": "What causes Parkinson's disease?",
+          "Answer": "Degeneration of the substantia nigra"
+        },
+        "Mechanism": {
+          "Question": "What is the mechanism of Parkinson's disease?",
+          "Answer": "Reduced dopamine signaling to basal ganglia"
+        },
+        "Result": {
+          "Question": "What are the results of Parkinson's disease?",
+          "Answer": "Movement disorders"
+        }
+      }
+    },
+
+    "Hindbrain": {
+      "Function": {
+        "Question": "What is the function of the hindbrain?",
+        "Answer": "Regulates glucose, sleep, and movement"
+      },
+      "Cerebellum": {
+        "Description": {
+          "Question": "What is the cerebellum?",
+          "Answer": "Second largest brain structure"
+        },
+        "Location": {
+          "Question": "Where is the cerebellum located?",
+          "Answer": "Under the occipital lobe"
+        },
+        "Structure": {
+          "Question": "What is the structure of the cerebellum?",
+          "Answer": "Folded and divided into hemispheres"
+        },
+        "Function": {
+          "Question": "What is the function of the cerebellum?",
+          "Answer": "Coordinates movement, motor learning, spatial and temporal perception"
+        }
+      },
+      "Pons": {
+        "Location": {
+          "Question": "Where is the pons located?",
+          "Answer": "Below the cerebellum"
+        },
+        "Function": {
+          "Question": "What is the function of the pons?",
+          "Answer": "Controls breathing and posture"
+        }
+      },
+      "Medulla": {
+        "Function": {
+          "Question": "What is the function of the medulla?",
+          "Answer": "Controls vital functions such as heart rate, breathing, and swallowing"
+        }
+      }
+    },
+
+    "Brain Stem": {
+      "Components": {
+        "Question": "What are the components of the brain stem?",
+        "Answer": "Midbrain, Pons, and Medulla"
+      }
+    },
+
+    "Brain Development": {
+      "Early Form": {
+        "Question": "What is the early form of the brain?",
+        "Answer": "Simple tube"
+      },
+      "Primary Regions": {
+        "Question": "What are the primary brain regions?",
+        "Answer": "Forebrain, Midbrain, and Hindbrain"
+      },
+      "Evolution": {
+        "Question": "How did the brain evolve?",
+        "Answer": "Olfactory bulbs developed, visual processing became more complex, cerebellum developed for movement control, sensory processing improved, forebrain formed cerebral hemispheres"
+      }
+    },
+
+    "Neural Organization": {
+      "Nerve Tracts": {
+        "Definition": {
+          "Question": "What are nerve tracts?",
+          "Answer": "Bundles of nerve fibers connecting brain regions"
+        },
+        "Examples": {
+          "Question": "What are examples of nerve tracts?",
+          "Answer": "Corpus callosum and Anterior commissure"
+        }
+      },
+      "Neural Networks": {
+        "Definition": {
+          "Question": "What are neural networks?",
+          "Answer": "Groups of connected brain regions"
+        },
+        "Visual Pathway": {
+          "Question": "What is the visual pathway?",
+          "Answer": "Photoreceptors → Optic nerve → Optic tract → Thalamus → Visual cortex"
+        },
+        "Feedback Loop": {
+          "Question": "What is the feedback loop?",
+          "Answer": "Basal ganglia circuits regulate movement"
+        },
+        "Cerebellum Loops": {
+          "Question": "What are cerebellum loops?",
+          "Answer": "Control timing and coordination"
+        },
+        "Memory Networks": {
+          "Question": "What are memory networks?",
+          "Answer": "Hippocampus integrates memory with sensory input"
+        },
+        "Reflex Loops": {
+          "Question": "What are reflex loops?",
+          "Answer": "Fast responses via spinal cord, no cortex involvement"
+        }
+      },
+      "Thalamocortical Loop": {
+        "Definition": {
+          "Question": "What is the thalamocortical loop?",
+          "Answer": "Two-way communication between thalamus and cortex"
+        }
+      }
+    },
+
+    "Brain Waves": {
+      "Definition": {
+        "Question": "What are brain waves?",
+        "Answer": "Electrical patterns of neuronal activity"
+      },
+      "Beta": {
+        "Question": "What are beta waves?",
+        "Answer": "Awake and focused (14–30 Hz)"
+      },
+      "Alpha": {
+        "Question": "What are alpha waves?",
+        "Answer": "Relaxed (8–13 Hz)"
+      },
+      "Theta": {
+        "Question": "What are theta waves?",
+        "Answer": "Light sleep (4–7 Hz)"
+      },
+      "Delta": {
+        "Question": "What are delta waves?",
+        "Answer": "Deep sleep (<3.5 Hz)"
+      }
+    },
+
+    "Neural Circuits": {
+      "Definition": {
+        "Question": "What are neural circuits?",
+        "Answer": "Interconnected neurons that process signals"
+      },
+      "Organization": {
+        "Question": "How are neural circuits organized?",
+        "Answer": "Arranged in cortical columns"
+      },
+      "Key Idea": {
+        "Question": "What is the key idea about neural circuits?",
+        "Answer": "Columns influence each other"
+      }
+    },
+
+    "Neuron Types": {
+      "Excitatory": {
+        "Percentage": {
+          "Question": "What percentage of neurons are excitatory?",
+          "Answer": "80%"
+        },
+        "Function": {
+          "Question": "What is the function of excitatory neurons?",
+          "Answer": "Promote neuron firing"
+        }
+      },
+      "Inhibitory": {
+        "Percentage": {
+          "Question": "What percentage of neurons are inhibitory?",
+          "Answer": "20%"
+        },
+        "Function": {
+          "Question": "What is the function of inhibitory neurons?",
+          "Answer": "Suppress neuron firing"
+        }
+      },
+      "Pyramidal Cell": {
+        "Type": {
+          "Question": "What type of neuron is a pyramidal cell?",
+          "Answer": "Excitatory"
+        },
+        "Structure": {
+          "Question": "What is the structure of a pyramidal cell?",
+          "Answer": "Cone-shaped body with branched dendrites and long axon"
+        }
+      }
+    },
+
+    "Circuits": {
+      "Feedforward Inhibition": {
+        "Question": "What is feedforward inhibition?",
+        "Answer": "Excitation triggers inhibition of neighboring neurons"
+      },
+      "Feedback Inhibition": {
+        "Question": "What is feedback inhibition?",
+        "Answer": "Neurons activate inhibitory neurons that suppress earlier activity"
+      }
+    },
+
+    "Glial Cells": {
+      "Definition": {
+        "Question": "What are glial cells?",
+        "Answer": "Support cells for neurons"
+      },
+      "Astrocytes": {
+        "Question": "What is the function of astrocytes?",
+        "Answer": "Regulate environment and provide nutrients"
+      },
+      "Microglia": {
+        "Question": "What is the function of microglia?",
+        "Answer": "Immune defense cells"
+      },
+      "Ependymal Cells": {
+        "Question": "What is the function of ependymal cells?",
+        "Answer": "Produce cerebrospinal fluid"
+      },
+      "Oligodendrocytes": {
+        "Question": "What is the function of oligodendrocytes?",
+        "Answer": "Form myelin sheaths"
+      }
+    },
+
+    "Membrane Potential": {
+      "Resting Potential": {
+        "Question": "What is the resting potential?",
+        "Answer": "-70 mV"
+      },
+      "Definition": {
+        "Question": "What is membrane potential?",
+        "Answer": "Electrical potential across the neuron membrane"
+      }
+    },
+
+    "Action Potential": {
+      "Definition": {
+        "Question": "What is an action potential?",
+        "Answer": "Electrical impulse traveling along the axon"
+      },
+      "Trigger": {
+        "Question": "What triggers an action potential?",
+        "Answer": "Occurs when threshold voltage is reached"
+      }
+    },
+
+    "Synapses": {
+      "Definition": {
+        "Question": "What are synapses?",
+        "Answer": "Junctions where neurons communicate"
+      },
+      "Process": {
+        "Question": "What is the synaptic process?",
+        "Answer": "Action potential arrives, calcium influx, neurotransmitter release, binding to receptors, new signal generated"
+      },
+      "Ionotropic": {
+        "Question": "What are ionotropic receptors?",
+        "Answer": "Directly open ion channels"
+      },
+      "Metabotropic": {
+        "Question": "What are metabotropic receptors?",
+        "Answer": "Trigger signaling cascades"
+      }
+    },
+
+    "Neurotransmitters": {
+      "Definition": {
+        "Question": "What are neurotransmitters?",
+        "Answer": "Chemical messengers between neurons"
+      },
+      "Types": {
+        "Question": "What are the types of neurotransmitters?",
+        "Answer": "Amino acids, small molecules, gases, and peptides"
+      },
+      "Glutamate": {
+        "Question": "What is glutamate?",
+        "Answer": "Most common excitatory neurotransmitter"
+      },
+      "GABA": {
+        "Question": "What is GABA?",
+        "Answer": "Most common inhibitory neurotransmitter"
+      },
+      "Reuptake": {
+        "Question": "What is reuptake?",
+        "Answer": "Reabsorption into presynaptic neuron"
+      }
+    },
+
+    "Gene Expression": {
+      "Steroid Hormones": {
+        "Examples": {
+          "Question": "What are examples of steroid hormones?",
+          "Answer": "Estradiol and cortisol"
+        },
+        "Mechanism": {
+          "Question": "How do steroid hormones work?",
+          "Answer": "Act as transcription factors to alter gene expression"
+        }
+      }
+    },
+
+    "Genetic Disorders": {
+      "Tay-Sachs Disease": {
+        "Definition": {
+          "Question": "What is Tay-Sachs disease?",
+          "Answer": "Fatal neurological disorder"
+        },
+        "Cause": {
+          "Question": "What causes Tay-Sachs disease?",
+          "Answer": "Mutation affecting fat metabolism enzyme"
+        }
+      }
+    }
+  }
+}

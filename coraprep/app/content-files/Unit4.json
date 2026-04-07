@@ -1,0 +1,225 @@
+{
+  "Unit 4: Learning, Memory, and Emotions": {
+    "H.M. (Henry Molaison)": {
+      "Identity": {
+        "Question": "Who is H.M.?",
+        "Answer": "Henry Molaison"
+      },
+      "Condition": {
+        "Question": "Why did H.M. undergo brain surgery?",
+        "Answer": "He had severe seizures"
+      },
+      "Surgery": {
+        "Question": "What brain regions were removed in H.M.?",
+        "Answer": "His medial temporal lobes, including most of his hippocampus"
+      },
+      "Outcome": {
+        "Question": "What was the result of H.M.'s surgery?",
+        "Answer": "He developed permanent amnesia and could not form new conscious memories"
+      },
+      "Significance": {
+        "Question": "What did H.M.'s case teach neuroscientists?",
+        "Answer": "Different types of memories are encoded in separate regions of the brain"
+      }
+    },
+
+    "Declarative Memory": {
+      "Definition": {
+        "Question": "What is declarative memory?",
+        "Answer": "Memory for facts, data, and events"
+      },
+      "Encoding and Storage": {
+        "Question": "Where is declarative memory encoded and stored?",
+        "Answer": "Encoded in the hippocampus and later transferred to the frontal lobes for long-term storage"
+      },
+      "Alternate Name": {
+        "Question": "What is another name for declarative memory?",
+        "Answer": "Explicit memory"
+      },
+      "Types": {
+        "Semantic Memory": {
+          "Question": "What is semantic memory?",
+          "Answer": "Memory of knowledge, facts, and ideas"
+        },
+        "Episodic Memory": {
+          "Question": "What is episodic memory?",
+          "Answer": "Memory of personal experiences"
+        }
+      }
+    },
+
+    "Amygdala": {
+      "Role in Memory": {
+        "Question": "Which brain region mediates the emotional significance of memories?",
+        "Answer": "The amygdala"
+      },
+      "Function": {
+        "Question": "What is the function of the amygdala?",
+        "Answer": "Processes emotion and modulates fight-or-flight responses"
+      }
+    },
+
+    "Parahippocampal Region": {
+      "Location": {
+        "Question": "Where is the parahippocampal region located?",
+        "Answer": "In the medial temporal lobe"
+      },
+      "Function": {
+        "Question": "What is the function of the parahippocampal region?",
+        "Answer": "Helps encode what happened in an episodic memory, but not where or when"
+      }
+    },
+
+    "Prefrontal Cortex": {
+      "Definition": {
+        "Question": "What is the prefrontal cortex?",
+        "Answer": "The brain’s executive center"
+      },
+      "Functions": {
+        "Question": "What are the functions of the prefrontal cortex?",
+        "Answer": "Controls attention, decision-making, long-term planning, monitors long-term memory, and coordinates working memory"
+      }
+    },
+
+    "Spatial Memory": {
+      "Definition": {
+        "Question": "What is spatial memory?",
+        "Answer": "The brain’s ability to process and remember spatial information"
+      },
+      "Place Cells": {
+        "Question": "What are place cells?",
+        "Answer": "Neurons in the hippocampus that activate when you are in a familiar environment"
+      },
+      "Grid Cells": {
+        "Question": "What are grid cells?",
+        "Answer": "Neurons in the entorhinal cortex that represent hexagonal coordinates to track position in space"
+      }
+    },
+
+    "Nondeclarative Memory": {
+      "Definition": {
+        "Question": "What is nondeclarative memory?",
+        "Answer": "Memory that is stored and retrieved without conscious effort"
+      },
+      "Alternate Names": {
+        "Question": "What are other names for nondeclarative memory?",
+        "Answer": "Implicit memory or procedural memory"
+      },
+      "Brain Regions": {
+        "Question": "What brain regions are most important for motor skill learning?",
+        "Answer": "Basal ganglia, prefrontal cortex, and cerebellum"
+      }
+    },
+
+    "Synaptic Plasticity": {
+      "Definition": {
+        "Question": "What is synaptic plasticity?",
+        "Answer": "The ability of synapses to remodel themselves"
+      },
+      "When It Occurs": {
+        "Question": "When do synapses remodel themselves?",
+        "Answer": "When encoding new long-term memories"
+      },
+      "Changes": {
+        "Question": "What changes occur during synaptic plasticity?",
+        "Answer": "Changes in synapse shape and number, neurotransmitter release, and receptor quantity"
+      },
+      "Aplysia": {
+        "Question": "Why is Aplysia californica important in neuroscience?",
+        "Answer": "It served as a model organism to study synaptic plasticity because its neurons are easy to observe"
+      },
+      "Key Molecules": {
+        "NMDA Receptors": {
+          "Question": "What receptor-related genes are important for long-term memory formation?",
+          "Answer": "Genes governing glutamate NMDA receptors"
+        },
+        "CREB": {
+          "Question": "What is CREB?",
+          "Answer": "A protein that regulates gene expression important for long-term memory"
+        }
+      },
+      "Long-Term Potentiation": {
+        "Definition": {
+          "Question": "What is long-term potentiation (LTP)?",
+          "Answer": "An increase in synaptic strength, especially in the hippocampus"
+        },
+        "Mechanism": {
+          "Question": "How does LTP strengthen synapses?",
+          "Answer": "By increasing the number of glutamate receptors"
+        },
+        "Calcium Role": {
+          "Question": "What role does calcium play in LTP?",
+          "Answer": "Activates kinase proteins"
+        },
+        "cAMP Pathway": {
+          "Question": "What happens in the cAMP pathway during LTP?",
+          "Answer": "Calcium activates cAMP, which activates enzymes that increase receptor numbers"
+        },
+        "CREB Activation": {
+          "Question": "What does CREB activation do in LTP?",
+          "Answer": "Directs protein synthesis"
+        },
+        "Neurotrophins": {
+          "Question": "What are neurotrophins?",
+          "Answer": "Proteins that stimulate growth of synapses and structural elements"
+        }
+      },
+      "Long-Term Depression": {
+        "Definition": {
+          "Question": "What is long-term depression (LTD)?",
+          "Answer": "A decrease in synaptic strength"
+        },
+        "Mechanism": {
+          "Question": "How is LTD mediated?",
+          "Answer": "Calcium activates phosphatases"
+        }
+      }
+    },
+
+    "Emotion": {
+      "Basic Emotions": {
+        "Question": "What are Paul Ekman's six basic emotions?",
+        "Answer": "Anger, fear, surprise, disgust, joy, and sadness"
+      },
+      "Processing": {
+        "Step 1": {
+          "Question": "Which brain regions initiate emotional processing?",
+          "Answer": "Prefrontal cortex, amygdala, and insular cortex"
+        },
+        "Step 2": {
+          "Question": "Where do these signals project?",
+          "Answer": "To the periaqueductal gray"
+        },
+        "Step 3": {
+          "Question": "What does the periaqueductal gray connect to?",
+          "Answer": "Amygdala, thalamus, hypothalamus, brainstem, and spinal cord"
+        }
+      }
+    },
+
+    "Reward System": {
+      "Mesolimbic Pathway": {
+        "Definition": {
+          "Question": "What is the mesolimbic pathway?",
+          "Answer": "A major dopamine pathway connecting the ventral tegmental area (VTA) to the nucleus accumbens"
+        },
+        "Function": {
+          "Question": "What is the function of the mesolimbic pathway?",
+          "Answer": "Dopamine release from the VTA to the nucleus accumbens drives reward processing"
+        },
+        "Alternate Name": {
+          "Question": "What is another name for the mesolimbic pathway?",
+          "Answer": "The reward pathway"
+        }
+      },
+      "Reward Expectation": {
+        "Question": "What influences emotion more than the reward itself?",
+        "Answer": "The expectation of a reward"
+      },
+      "Lateral Habenula": {
+        "Question": "What is the lateral habenula and its role in dopamine?",
+        "Answer": "It encodes punishment by inhibiting dopamine release"
+      }
+    }
+  }
+}

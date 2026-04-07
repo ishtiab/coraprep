@@ -1,0 +1,380 @@
+{
+  "Unit 2: Senses and Perception": {
+
+    "Vision": {
+      "Cortex Involvement": {
+        "Question": "What percent of the cerebral cortex is involved in vision?",
+        "Answer": "30%, more than any other sense"
+      },
+      "Animal Studies": {
+        "Question": "Which animals were used to study vision?",
+        "Answer": "Flies (Drosophila) and mice for early studies; monkeys and cats for higher-level processing"
+      },
+      "Process of Vision": {
+        "Question": "What is the process of sensing vision?",
+        "Answer": "Light enters the pupil, the iris regulates light, the cornea and lens focus light, the retina receives a reversed image, processing occurs, and signals travel through the optic nerve to the brain"
+      },
+
+      "Retina Neurons": {
+        "Photoreceptors": {
+          "Definition": {
+            "Question": "What are photoreceptors?",
+            "Answer": "Cells that convert light into electrical signals"
+          },
+          "Total Number": {
+            "Question": "How many photoreceptors are in each human eye?",
+            "Answer": "125 million"
+          },
+          "Transduction": {
+            "Question": "What is transduction?",
+            "Answer": "The process of converting energy from one form into another"
+          },
+
+          "Rods": {
+            "Percentage": {
+              "Question": "What percent of photoreceptors are rods?",
+              "Answer": "95%"
+            },
+            "Function": {
+              "Question": "What is the function of rods?",
+              "Answer": "Detect dim light and are highly sensitive"
+            }
+          },
+
+          "Cones": {
+            "Function": {
+              "Question": "What is the function of cones?",
+              "Answer": "Detect fine detail and color"
+            },
+            "Types": {
+              "Question": "What are the three types of cones?",
+              "Answer": "Red, green, and blue"
+            },
+            "Fovea": {
+              "Location": {
+                "Question": "Where are cones most concentrated?",
+                "Answer": "Center of the retina"
+              },
+              "Function": {
+                "Question": "What is the function of this region?",
+                "Answer": "Provides the sharpest vision"
+              },
+              "Name": {
+                "Question": "What is this region called?",
+                "Answer": "Fovea"
+              },
+              "Cone Types": {
+                "Question": "Which cones are present in the fovea?",
+                "Answer": "Only red and green cones"
+              }
+            },
+            "Macula": {
+              "Definition": {
+                "Question": "What is the macula?",
+                "Answer": "The area surrounding the fovea"
+              },
+              "Function": {
+                "Question": "What is the function of the macula?",
+                "Answer": "Helps with clear vision during activities like reading and driving"
+              },
+              "Disease": {
+                "Question": "Degeneration of the macula leads to what condition?",
+                "Answer": "Blindness"
+              }
+            }
+          }
+        },
+
+        "Interneurons": {
+          "Question": "What are interneurons in the retina?",
+          "Answer": "Cells that process and relay signals from photoreceptors"
+        },
+
+        "Ganglion Cells": {
+          "Function": {
+            "Question": "What is the function of ganglion cells?",
+            "Answer": "Their axons form the optic nerve"
+          },
+          "Input Differences": {
+            "Question": "How do ganglion cell inputs differ by location?",
+            "Answer": "Macular cells receive few inputs for detail; peripheral cells receive many inputs for broader detection"
+          },
+          "Receptive Field": {
+            "Question": "What is a receptive field?",
+            "Answer": "The area of visual space that provides input to a single ganglion cell"
+          }
+        }
+      },
+
+      "Visual Processing": {
+        "Steps": {
+          "Question": "What are the steps of visual processing?",
+          "Answer": "Light differences are compared, ganglion cells map the visual scene, center-surround antagonism enhances contrast, signals travel through the optic nerve, then to the thalamus (LGN), and finally to the primary visual cortex"
+        },
+        "Center-Surround": {
+          "Question": "What is center-surround antagonism?",
+          "Answer": "Light in the center excites firing, light in the surround inhibits firing, and both together produce a weak response"
+        },
+        "Blind Spot": {
+          "Question": "What is the blind spot?",
+          "Answer": "An area with no photoreceptors where the optic nerve exits; the brain fills in missing information"
+        },
+        "Optic Chiasm": {
+          "Question": "What is the optic chiasm?",
+          "Answer": "The point where left and right visual fields cross"
+        },
+        "LGN": {
+          "Question": "What is the lateral geniculate nucleus (LGN)?",
+          "Answer": "A region of the thalamus that relays visual information to the cortex"
+        }
+      },
+
+      "Primary Visual Cortex": {
+        "Definition": {
+          "Question": "What is the primary visual cortex?",
+          "Answer": "The region in the occipital lobe where visual information is processed"
+        },
+        "Middle Layer": {
+          "Question": "What is the function of the middle layer?",
+          "Answer": "Receives input from the thalamus and preserves the retina’s visual map"
+        },
+        "Other Layers": {
+          "Question": "What do the upper and lower layers detect?",
+          "Answer": "Edges and orientations of objects"
+        },
+        "Streams": {
+          "Dorsal": {
+            "Question": "What is the dorsal stream?",
+            "Answer": "The 'where' pathway that processes motion and spatial relationships"
+          },
+          "Ventral": {
+            "Question": "What is the ventral stream?",
+            "Answer": "The 'what' pathway that processes shape, color, and object identity"
+          }
+        }
+      },
+
+      "Strabismus": {
+        "Definition": {
+          "Question": "What is strabismus?",
+          "Answer": "A condition where the eyes are misaligned"
+        },
+        "Effect": {
+          "Question": "What happens if strabismus is untreated?",
+          "Answer": "Loss of vision in one eye due to favoring the other"
+        }
+      }
+    },
+
+    "Hearing": {
+      "Process": {
+        "Question": "What is the process of hearing?",
+        "Answer": "Sound waves enter the ear, vibrate the eardrum, move through ossicles, reach the cochlea, stimulate hair cells, and convert into neural signals"
+      },
+
+      "Basilar Membrane": {
+        "Location": {
+          "Question": "Where is the basilar membrane located?",
+          "Answer": "Inside the cochlea"
+        },
+        "Function": {
+          "Question": "What is the function of the basilar membrane?",
+          "Answer": "Responds to different frequencies along its length"
+        }
+      },
+
+      "Hair Cells": {
+        "Question": "What happens when cochlear fluid moves?",
+        "Answer": "Hair cells bend, open ion channels, and generate electrical signals"
+      },
+
+      "Processing": {
+        "Question": "How is auditory information processed?",
+        "Answer": "Signals go to the thalamus, then to the auditory cortex; the brainstem helps locate sound direction"
+      },
+
+      "Brain Specialization": {
+        "Question": "How do the left and right auditory cortices differ?",
+        "Answer": "Left processes speech (Wernicke’s and Broca’s areas)"
+      },
+
+      "Hearing Loss": {
+        "Question": "What is the main cause of hearing loss?",
+        "Answer": "Loss of hair cells, which do not regenerate"
+      }
+    },
+
+    "Taste and Smell": {
+      "Taste": {
+        "Question": "What is the sense of taste called?",
+        "Answer": "Gustation"
+      },
+      "Smell": {
+        "Question": "What is the sense of smell called?",
+        "Answer": "Olfaction"
+      },
+      "Regeneration": {
+        "Question": "Why do taste and olfactory cells regenerate?",
+        "Answer": "Because they are exposed to environmental damage"
+      },
+
+      "Taste Buds": {
+        "Number": {
+          "Question": "How many taste buds do humans have?",
+          "Answer": "5,000 to 10,000"
+        },
+        "Cells": {
+          "Question": "How many cells are in each taste bud?",
+          "Answer": "50 to 100 cells"
+        },
+        "Function": {
+          "Question": "What do taste bud cells detect?",
+          "Answer": "One of five taste qualities"
+        }
+      },
+
+      "Taste Process": {
+        "Question": "What is the process of tasting?",
+        "Answer": "Taste cells activate, signals travel via cranial nerves to the brainstem, then to the thalamus, and finally to the gustatory cortex"
+      },
+
+      "Smell Process": {
+        "Question": "What is the process of smelling?",
+        "Answer": "Odor molecules bind to receptors, signals go to olfactory bulbs, then to the cortex without passing through the thalamus"
+      },
+
+      "Olfactory System": {
+        "Cells": {
+          "Question": "How many olfactory receptor types exist?",
+          "Answer": "About 1,000"
+        },
+        "Detection": {
+          "Question": "How many smells can humans identify?",
+          "Answer": "About 20,000"
+        },
+        "Mechanism": {
+          "Question": "How do olfactory receptors work?",
+          "Answer": "Different activation patterns create different smell perceptions"
+        }
+      },
+
+      "Speed": {
+        "Question": "How quickly can odors be identified?",
+        "Answer": "About 110 milliseconds"
+      },
+
+      "Flavor": {
+        "Question": "Why do taste and smell combine?",
+        "Answer": "To create flavor perception"
+      }
+    },
+
+    "Touch and Pain": {
+      "System": {
+        "Question": "What system detects touch?",
+        "Answer": "The somatosensory system"
+      },
+
+      "Touch Process": {
+        "Question": "What is the process of sensing touch?",
+        "Answer": "Signals travel from receptors to the spinal cord, then to the thalamus, and finally to the somatosensory cortex"
+      },
+
+      "Speed": {
+        "Fast": {
+          "Question": "What fibers carry fast touch signals?",
+          "Answer": "Myelinated A-beta fibers"
+        },
+        "Slow": {
+          "Question": "What fibers carry slow touch signals?",
+          "Answer": "Unmyelinated C fibers"
+        }
+      },
+
+      "Somatosensory Cortex": {
+        "Definition": {
+          "Question": "What is the somatosensory cortex?",
+          "Answer": "The brain region where touch is perceived"
+        },
+        "Sensitivity": {
+          "Question": "What determines sensitivity in the cortex?",
+          "Answer": "Number of receptors in a region"
+        },
+        "Most Sensitive": {
+          "Question": "Which areas are most sensitive?",
+          "Answer": "Lips and hands"
+        },
+        "Measurement": {
+          "Question": "What is two-point discrimination?",
+          "Answer": "Minimum distance at which two points are felt separately"
+        }
+      },
+
+      "Pain": {
+        "Definition": {
+          "Question": "When does pain occur?",
+          "Answer": "When nociceptors detect potential tissue damage"
+        },
+
+        "Types": {
+          "Mechanical": {
+            "Question": "What do mechanical nociceptors detect?",
+            "Answer": "Physical injury"
+          },
+          "Thermal": {
+            "Question": "What do thermal nociceptors detect?",
+            "Answer": "Heat or cold"
+          },
+          "Chemical": {
+            "Question": "What do chemical nociceptors detect?",
+            "Answer": "Toxins or irritants"
+          },
+          "Histamine": {
+            "Question": "What do histamine receptors do?",
+            "Answer": "Respond to itch and trigger histamine release"
+          }
+        },
+
+        "Inflammation": {
+          "Question": "What happens during tissue injury?",
+          "Answer": "Chemicals are released, causing inflammation and pain signals"
+        },
+
+        "Prostaglandins": {
+          "Question": "What do prostaglandins do?",
+          "Answer": "Increase sensitivity of pain receptors"
+        },
+
+        "Allodynia": {
+          "Question": "What is allodynia?",
+          "Answer": "A condition where non-painful stimuli cause pain"
+        },
+
+        "Neuropathic Pain": {
+          "Question": "What is neuropathic pain?",
+          "Answer": "Persistent pain due to nervous system damage"
+        },
+
+        "Variation": {
+          "Question": "Why do people experience pain differently?",
+          "Answer": "Due to emotional state and context"
+        }
+      },
+
+      "Periaqueductal Gray": {
+        "Location": {
+          "Question": "Where is the periaqueductal gray located?",
+          "Answer": "Brainstem"
+        },
+        "Function": {
+          "Question": "What is its function?",
+          "Answer": "Modulates pain and releases endorphins"
+        },
+        "Endorphins": {
+          "Question": "What are endorphins?",
+          "Answer": "Natural opioids that reduce pain"
+        }
+      }
+    }
+  }
+}

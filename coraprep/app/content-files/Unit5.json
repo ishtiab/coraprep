@@ -1,0 +1,279 @@
+{
+  "Unit 5: Thinking, Planning, and Language": {
+    "Concepts and Semantic Memory": {
+      "Concept Formation": {
+        "Question": "How does the brain use concepts to make sense of objects and people?",
+        "Answer": "It builds simple representations of objects and people as references to interpret moment-to-moment perceptions"
+      },
+      "Example": {
+        "Question": "How do concepts help with recognizing objects?",
+        "Answer": "They allow you to identify objects such as dogs across different breeds"
+      },
+      "Construction": {
+        "Question": "How are conceptual representations constructed?",
+        "Answer": "Through semantic memory"
+      },
+      "Semantic Memory": {
+        "Question": "What is semantic memory?",
+        "Answer": "A type of declarative memory that stores facts and data"
+      },
+      "Concept Cells": {
+        "Definition": {
+          "Question": "What are concept cells?",
+          "Answer": "Neurons that process specific categories of information"
+        },
+        "Location": {
+          "Question": "Where are concept cells located?",
+          "Answer": "Temporal lobe, involved in object recognition"
+        }
+      }
+    },
+
+    "Agnosia and Object Recognition": {
+      "DBO": {
+        "Identity": {
+          "Question": "Who is DBO?",
+          "Answer": "A 72-year-old man who suffered multiple strokes"
+        },
+        "Symptoms": {
+          "Question": "What were DBO's symptoms?",
+          "Answer": "He could identify very few objects by sight but could recognize them by touch and sound"
+        },
+        "Cause": {
+          "Question": "What caused DBO's condition?",
+          "Answer": "Damage to the anterior temporal regions involved in semantic processing"
+        },
+        "Condition": {
+          "Question": "What is the condition DBO had called?",
+          "Answer": "Agnosia"
+        }
+      },
+      "Fusiform Face Area": {
+        "Location": {
+          "Question": "Where is the fusiform face area (FFA) located?",
+          "Answer": "On the underside of the temporal lobe"
+        },
+        "Function": {
+          "Question": "What is the function of the fusiform face area?",
+          "Answer": "Recognizing faces"
+        },
+        "Damage": {
+          "Question": "What condition results from damage to the fusiform face area?",
+          "Answer": "Prosopagnosia, also known as face blindness"
+        }
+      }
+    },
+
+    "Language Processing": {
+      "Word Encoding": {
+        "Question": "Which parts of the brain encode words?",
+        "Answer": "Parts of the temporal lobe and regions of the prefrontal cortex"
+      },
+      "Semantic System": {
+        "Question": "What is the semantic system?",
+        "Answer": "A system that responds to words and helps encode the meaning or 'what' of things"
+      },
+      "Hemisphere Specialization": {
+        "Question": "Which hemisphere responds most to single words?",
+        "Answer": "The left hemisphere"
+      },
+      "Visual Word Form Area": {
+        "Location": {
+          "Question": "Where is the visual word form area (VWFA) located?",
+          "Answer": "In the fusiform gyrus"
+        },
+        "Function": {
+          "Question": "What is the function of the visual word form area?",
+          "Answer": "Recognizes written letters and words"
+        }
+      },
+      "Number Processing": {
+        "Question": "Which brain regions help represent numbers?",
+        "Answer": "The parietal cortex with input from the occipitotemporal cortex"
+      },
+      "Number Meaning": {
+        "Question": "How do these regions process numbers?",
+        "Answer": "They help identify numbers and connect them to their conceptual meaning"
+      }
+    },
+
+    "Aphasia and Speech Disorders": {
+      "Patient Tan": {
+        "Identity": {
+          "Question": "Who was patient Tan?",
+          "Answer": "A man who could only say 'tan' and had difficulty speaking but could understand language"
+        },
+        "Discovery": {
+          "Question": "Who identified Broca’s area?",
+          "Answer": "Pierre Paul Broca"
+        },
+        "Aphasia Definition": {
+          "Question": "What is aphasia?",
+          "Answer": "The inability to produce or understand speech"
+        },
+        "Brocas Aphasia": {
+          "Definition": {
+            "Question": "What is Broca’s aphasia?",
+            "Answer": "A condition where a person cannot speak but can understand language"
+          },
+          "Alternate Name": {
+            "Question": "What is another name for Broca’s aphasia?",
+            "Answer": "Non-fluent aphasia"
+          },
+          "Cause": {
+            "Question": "What causes Broca’s aphasia?",
+            "Answer": "Damage to the left frontal lobe where Broca’s area is located"
+          }
+        }
+      },
+      "Patient SA": {
+        "Identity": {
+          "Question": "Who is patient SA?",
+          "Answer": "A patient who could speak fluently but could not understand speech"
+        },
+        "Discovery": {
+          "Question": "Who identified Wernicke’s area?",
+          "Answer": "Carl Wernicke"
+        },
+        "Wernickes Area": {
+          "Location": {
+            "Question": "Where is Wernicke’s area located?",
+            "Answer": "In the left temporal lobe"
+          }
+        },
+        "Wernickes Aphasia": {
+          "Definition": {
+            "Question": "What is Wernicke’s aphasia?",
+            "Answer": "A condition where a person has difficulty understanding speech"
+          },
+          "Alternate Name": {
+            "Question": "What is another name for Wernicke’s aphasia?",
+            "Answer": "Fluent aphasia"
+          }
+        }
+      },
+      "Pure Word Deafness": {
+        "Definition": {
+          "Question": "What is pure word deafness?",
+          "Answer": "A type of aphasia where a person cannot comprehend speech but is not deaf"
+        },
+        "Abilities": {
+          "Question": "What abilities are preserved in pure word deafness?",
+          "Answer": "The ability to hear sounds and music"
+        },
+        "Cause": {
+          "Question": "What causes pure word deafness?",
+          "Answer": "Damage to the superior temporal lobes in both hemispheres"
+        }
+      }
+    },
+
+    "Genetics of Language": {
+      "FOXP2": {
+        "Definition": {
+          "Question": "What is the FOXP2 gene?",
+          "Answer": "A gene associated with language"
+        },
+        "Function": {
+          "Question": "What is the function of the FOXP2 gene?",
+          "Answer": "It codes for a protein that regulates other genes in the brain"
+        },
+        "Mutation Effects": {
+          "Question": "What happens when FOXP2 is mutated?",
+          "Answer": "It causes difficulty with mouth and jaw movement and affects signaling in parts of the basal ganglia"
+        }
+      }
+    },
+
+    "Language Comprehension Regions": {
+      "Word Meaning": {
+        "Question": "Which brain regions help assess the meaning of words?",
+        "Answer": "The middle and inferior temporal lobes"
+      },
+      "Sentence Comprehension": {
+        "Question": "Which brain region helps with sentence-level comprehension?",
+        "Answer": "The anterior temporal lobe"
+      }
+    },
+
+    "Prefrontal Cortex Development": {
+      "Maturation": {
+        "Question": "Why are children less mature than adults in terms of the prefrontal cortex?",
+        "Answer": "Because the prefrontal cortex develops last, around adulthood"
+      }
+    },
+
+    "Executive Function": {
+      "Definition": {
+        "Question": "What is executive function?",
+        "Answer": "A set of cognitive processes that include inhibition, working memory, and shifting"
+      },
+      "Components": {
+        "Inhibition": {
+          "Question": "What is inhibition?",
+          "Answer": "The ability to suppress a behavior or action"
+        },
+        "Working Memory": {
+          "Question": "What is working memory?",
+          "Answer": "The ability to hold information in mind while deciding how to act"
+        },
+        "Shifting": {
+          "Question": "What is shifting?",
+          "Answer": "The ability to adjust behavior when conditions change"
+        }
+      }
+    },
+
+    "Decision Making": {
+      "Lateral PFC": {
+        "Question": "How does the lateral prefrontal cortex help in emotional decision making?",
+        "Answer": "It overrides emotional responses and regulates the amygdala"
+      },
+      "Orbitofrontal Cortex": {
+        "Function": {
+          "Question": "What is the function of the orbitofrontal cortex?",
+          "Answer": "It helps with affective decision-making involving reward and punishment"
+        },
+        "Additional Roles": {
+          "Question": "What other roles does the orbitofrontal cortex play?",
+          "Answer": "It is important in addiction and social behavior"
+        },
+        "Location": {
+          "Question": "Where is the orbitofrontal cortex located?",
+          "Answer": "In the prefrontal cortex just behind the eyes"
+        }
+      }
+    },
+
+    "Social Cognition": {
+      "Mentalizing": {
+        "Question": "What is mentalizing?",
+        "Answer": "Understanding your own thoughts and the thoughts of others"
+      },
+      "Brain Regions": {
+        "Question": "Which brain regions are involved in mentalizing?",
+        "Answer": "The medial and lateral prefrontal cortex"
+      },
+      "Temporoparietal Junction": {
+        "Location": {
+          "Question": "Where is the temporoparietal junction (TPJ) located?",
+          "Answer": "At the border of the temporal and parietal lobes"
+        },
+        "Function": {
+          "Question": "What is the function of the TPJ?",
+          "Answer": "It focuses on understanding others rather than the self"
+        }
+      },
+      "Mirror Neurons": {
+        "Location": {
+          "Question": "Where are mirror neurons located?",
+          "Answer": "In the motor cortex"
+        },
+        "Function": {
+          "Question": "What is the function of mirror neurons?",
+          "Answer": "They fire both when performing an action and when observing someone else perform the same action"
+        }
+      }
+    }
+  }
+}

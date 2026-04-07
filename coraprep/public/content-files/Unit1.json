@@ -1,0 +1,226 @@
+{
+  "Unit 1: Brain Structure and Function": {
+    "Largest Part of the Human Brain": {
+      "Question": "What is the largest part of the human brain?",
+      "Answer": "The cerebrum",
+      "Structure": {
+        "Description": "Two large, separate hemispheres on each side of the brain",
+        "Connection": {
+          "Question": "What connects the hemispheres?",
+          "Answer": "Corpus callosum",
+          "Function": "Transmits information between hemispheres"
+        }
+      },
+      "Cerebral Cortex": {
+        "Question": "What is the surface of the cerebrum called?",
+        "Answer": "Cerebral cortex",
+        "Structure": {
+          "Description": "Deeply folded layer of nerve tissue",
+          "Purpose of Folds": "Increase surface area, allowing more neurons and greater processing power"
+        }
+      },
+      "Lobes": {
+        "Frontal Lobes": {
+          "Location": "Front of the brain, above the eyes",
+          "Function": "Coordinate voluntary movement, speech, memory, emotion, higher cognition, and personality"
+        },
+        "Parietal Lobes": {
+          "Location": "Top of the brain, behind frontal lobes",
+          "Function": "Integrate sensory signals, process taste and some visual information"
+        },
+        "Occipital Lobes": {
+          "Location": "Back of the brain",
+          "Function": "Process visual information, recognize colors and shapes"
+        },
+        "Temporal Lobes": {
+          "Location": "Sides of the brain, near the ears",
+          "Function": "Interpret auditory information and assist in visual processing"
+        }
+      }
+    },
+
+    "Limbic System": {
+      "Question": "What is the limbic system?",
+      "Answer": "A group of structures that regulate emotion and motivation",
+      "Structures": {
+        "Hippocampus": {
+          "Location": "Beneath the cerebral cortex in the temporal lobes",
+          "Function": "Encodes new memories"
+        },
+        "Amygdala": {
+          "Location": "Temporal lobes",
+          "Function": "Integrates memory and emotion"
+        },
+        "Thalamus": {
+          "Function": "Integrates sensory information and relays it to other brain regions"
+        },
+        "Hypothalamus": {
+          "Function": "Maintains homeostasis and sends hormonal signals; regulates hunger, thirst, and temperature"
+        }
+      }
+    },
+
+    "Midbrain": {
+      "Location": "Beneath the thalamus",
+      "Function": "Coordinates eye movements, inhibits unwanted movements, and integrates sensory and motor signals"
+    },
+
+    "Basal Ganglia": {
+      "Definition": "A neural network of structures in the midbrain and forebrain that regulate movement",
+      "Function": "Processes movement signals and sends feedback to the cortex",
+      "Parkinson’s Disease": {
+        "Cause": "Degeneration of the substantia nigra",
+        "Mechanism": "Reduced dopamine signaling to basal ganglia",
+        "Result": "Movement disorders"
+      }
+    },
+
+    "Hindbrain": {
+      "Function": "Regulates glucose, sleep, and movement",
+      "Cerebellum": {
+        "Description": "Second largest brain structure",
+        "Location": "Under the occipital lobe",
+        "Structure": "Folded and divided into hemispheres",
+        "Function": "Coordinates movement, motor learning, spatial and temporal perception"
+      },
+      "Pons": {
+        "Location": "Below the cerebellum",
+        "Function": "Controls breathing and posture"
+      },
+      "Medulla": {
+        "Function": "Controls vital functions such as heart rate, breathing, and swallowing"
+      }
+    },
+
+    "Brain Stem": {
+      "Components": ["Midbrain", "Pons", "Medulla"]
+    },
+
+    "Brain Development": {
+      "Early Form": "Simple tube",
+      "Primary Regions": ["Forebrain", "Midbrain", "Hindbrain"],
+      "Evolution": [
+        "Olfactory bulbs developed",
+        "Visual processing became more complex",
+        "Cerebellum developed for movement control",
+        "Sensory processing improved",
+        "Forebrain formed cerebral hemispheres"
+      ]
+    },
+
+    "Neural Organization": {
+      "Nerve Tracts": {
+        "Definition": "Bundles of nerve fibers connecting brain regions",
+        "Examples": ["Corpus callosum", "Anterior commissure"]
+      },
+      "Neural Networks": {
+        "Definition": "Groups of connected brain regions",
+        "Examples": {
+          "Visual Pathway": "Photoreceptors → Optic nerve → Optic tract → Thalamus → Visual cortex",
+          "Feedback Loop": "Basal ganglia circuits regulate movement",
+          "Cerebellum Loops": "Control timing and coordination",
+          "Memory Networks": "Hippocampus integrates memory with sensory input",
+          "Reflex Loops": "Fast responses via spinal cord, no cortex involvement"
+        }
+      },
+      "Thalamocortical Loop": {
+        "Definition": "Two-way communication between thalamus and cortex"
+      }
+    },
+
+    "Brain Waves": {
+      "Definition": "Electrical patterns of neuronal activity",
+      "Types": {
+        "Beta": "Awake and focused (14–30 Hz)",
+        "Alpha": "Relaxed (8–13 Hz)",
+        "Theta": "Light sleep (4–7 Hz)",
+        "Delta": "Deep sleep (<3.5 Hz)"
+      }
+    },
+
+    "Neural Circuits": {
+      "Definition": "Interconnected neurons that process signals",
+      "Organization": "Arranged in cortical columns",
+      "Key Idea": "Columns influence each other"
+    },
+
+    "Neuron Types": {
+      "Excitatory": {
+        "Percentage": "80%",
+        "Function": "Promote neuron firing"
+      },
+      "Inhibitory": {
+        "Percentage": "20%",
+        "Function": "Suppress neuron firing"
+      },
+      "Pyramidal Cell": {
+        "Type": "Excitatory",
+        "Structure": "Cone-shaped body with branched dendrites and long axon"
+      }
+    },
+
+    "Circuits": {
+      "Feedforward Inhibition": "Excitation triggers inhibition of neighboring neurons",
+      "Feedback Inhibition": "Neurons activate inhibitory neurons that suppress earlier activity"
+    },
+
+    "Glial Cells": {
+      "Definition": "Support cells for neurons",
+      "Types": {
+        "Astrocytes": "Regulate environment and provide nutrients",
+        "Microglia": "Immune defense cells",
+        "Ependymal Cells": "Produce cerebrospinal fluid",
+        "Oligodendrocytes": "Form myelin sheaths"
+      }
+    },
+
+    "Membrane Potential": {
+      "Resting Potential": "-70 mV",
+      "Definition": "Electrical potential across the neuron membrane"
+    },
+
+    "Action Potential": {
+      "Definition": "Electrical impulse traveling along the axon",
+      "Trigger": "Occurs when threshold voltage is reached"
+    },
+
+    "Synapses": {
+      "Definition": "Junctions where neurons communicate",
+      "Process": [
+        "Action potential arrives",
+        "Calcium influx",
+        "Neurotransmitter release",
+        "Binding to receptors",
+        "New signal generated"
+      ],
+      "Receptors": {
+        "Ionotropic": "Directly open ion channels",
+        "Metabotropic": "Trigger signaling cascades"
+      }
+    },
+
+    "Neurotransmitters": {
+      "Definition": "Chemical messengers between neurons",
+      "Types": ["Amino acids", "Small molecules", "Gases", "Peptides"],
+      "Key Examples": {
+        "Glutamate": "Most common excitatory neurotransmitter",
+        "GABA": "Most common inhibitory neurotransmitter"
+      },
+      "Reuptake": "Reabsorption into presynaptic neuron"
+    },
+
+    "Gene Expression": {
+      "Steroid Hormones": {
+        "Examples": ["Estradiol", "Cortisol"],
+        "Mechanism": "Act as transcription factors to alter gene expression"
+      }
+    },
+
+    "Genetic Disorders": {
+      "Tay-Sachs Disease": {
+        "Definition": "Fatal neurological disorder",
+        "Cause": "Mutation affecting fat metabolism enzyme"
+      }
+    }
+  }
+}

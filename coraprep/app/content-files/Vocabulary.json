@@ -1,0 +1,991 @@
+{
+  "vocabulary": [
+    {
+      "term": "Acetylcholine",
+      "definition": "A neurotransmitter involved in memory, attention, muscle activity, and heart rate.",
+      "type": "neurotransmitter",
+      "effects": {
+        "low": "Associated with Alzheimer’s disease",
+        "high": "Muscle spasms"
+      },
+      "topic": "neurotransmission"
+    },
+    {
+      "term": "Action Potential",
+      "definition": "An electrical signal that travels along a neuron’s axon.",
+      "type": "process",
+      "extra": "All-or-none signal; caused by depolarization",
+      "topic": "neurophysiology"
+    },
+    {
+      "term": "Addiction",
+      "definition": "Compulsive drug use despite harmful consequences.",
+      "topic": "behavior"
+    },
+    {
+      "term": "Adenosine",
+      "definition": "A chemical that promotes sleep and reduces arousal.",
+      "effects": {
+        "blocked_by": "Caffeine increases alertness"
+      },
+      "topic": "sleep"
+    },
+    {
+      "term": "Adrenal Gland",
+      "structure": "Endocrine glands located above the kidneys",
+      "function": "Release cortisol, epinephrine, and norepinephrine for stress response",
+      "topic": "endocrine"
+    },
+    {
+      "term": "Alzheimer’s Disease",
+      "definition": "A neurodegenerative disorder causing memory loss and cognitive decline.",
+      "extra": "Hippocampus degeneration is key",
+      "topic": "disorders"
+    },
+    {
+      "term": "Amnesia",
+      "definition": "Loss of memory due to brain damage or disease.",
+      "topic": "memory"
+    },
+    {
+      "term": "Amygdala",
+      "structure": "Limbic system structure in the temporal lobe",
+      "function": "Processes emotions, especially fear",
+      "topic": "emotion"
+    },
+    {
+      "term": "Amyotrophic Lateral Sclerosis (ALS)",
+      "definition": "Degeneration of motor neurons causing loss of movement",
+      "topic": "disorders"
+    },
+    {
+      "term": "Analgesic",
+      "definition": "A drug that relieves pain without causing unconsciousness",
+      "topic": "drugs"
+    },
+
+    {
+      "term": "Anxiety",
+      "definition": "A state of excessive worry and heightened arousal",
+      "topic": "emotion"
+    },
+    {
+      "term": "Aphasia",
+      "definition": "Impairment in language production or comprehension",
+      "topic": "language"
+    },
+    {
+      "term": "Apoptosis",
+      "definition": "Programmed cell death",
+      "extra": "Important in brain development",
+      "topic": "development"
+    },
+    {
+      "term": "Arousal",
+      "definition": "Physiological and psychological state of alertness",
+      "topic": "behavior"
+    },
+    {
+      "term": "Astrocyte",
+      "structure": "Star-shaped glial cell in CNS",
+      "function": "Supports neurons, regulates synapses, forms blood-brain barrier",
+      "topic": "glia"
+    },
+    {
+      "term": "Attention",
+      "definition": "Focused awareness on specific stimuli",
+      "extra": "Can be voluntary or involuntary",
+      "topic": "cognition"
+    },
+    {
+      "term": "ADHD",
+      "definition": "Disorder with inattention, hyperactivity, and impulsivity",
+      "topic": "disorders"
+    },
+    {
+      "term": "Auditory Nerve",
+      "structure": "Nerve connecting cochlea to brain",
+      "function": "Transmits sound information",
+      "topic": "sensory"
+    },
+    {
+      "term": "Autism Spectrum Disorder",
+      "definition": "Disorder involving social and communication difficulties",
+      "topic": "disorders"
+    },
+    {
+      "term": "Autonomic Nervous System",
+      "structure": "Part of PNS including sympathetic and parasympathetic divisions",
+      "function": "Controls involuntary body functions",
+      "topic": "nervous system"
+    },
+
+    {
+      "term": "Axon",
+      "structure": "Long projection of a neuron",
+      "function": "Transmits electrical signals away from cell body",
+      "topic": "neuron"
+    },
+    {
+      "term": "Axon Terminal",
+      "structure": "End of an axon",
+      "function": "Releases neurotransmitters",
+      "topic": "neuron"
+    },
+    {
+      "term": "Basal Ganglia",
+      "structure": "Group of deep brain nuclei",
+      "function": "Controls movement and habits",
+      "topic": "movement"
+    },
+    {
+      "term": "Benzodiazepines",
+      "definition": "Drugs that enhance GABA to reduce anxiety",
+      "topic": "drugs"
+    },
+    {
+      "term": "Blood-Brain Barrier",
+      "structure": "Protective barrier of tightly packed cells",
+      "function": "Controls substances entering the brain",
+      "topic": "protection"
+    },
+    {
+      "term": "Brain Waves",
+      "definition": "Patterns of electrical activity in the brain",
+      "topic": "brain activity"
+    },
+    {
+      "term": "BDNF",
+      "definition": "Protein that supports neuron growth and survival",
+      "topic": "development"
+    },
+    {
+      "term": "Brainstem",
+      "structure": "Includes midbrain, pons, medulla",
+      "function": "Controls vital functions like breathing and heart rate",
+      "topic": "anatomy"
+    },
+    {
+      "term": "Broca’s Area",
+      "structure": "Left frontal lobe region",
+      "function": "Speech production",
+      "topic": "language"
+    },
+    {
+      "term": "Cell Body",
+      "structure": "Contains nucleus and organelles",
+      "function": "Maintains neuron and integrates signals",
+      "topic": "neuron"
+    },
+
+    {
+      "term": "Central Nervous System",
+      "structure": "Brain and spinal cord",
+      "function": "Processes and coordinates information",
+      "topic": "nervous system"
+    },
+    {
+      "term": "Cerebellum",
+      "structure": "Hindbrain structure",
+      "function": "Coordinates movement and balance",
+      "topic": "movement"
+    },
+    {
+      "term": "Cerebral Cortex",
+      "structure": "Outer brain layer",
+      "function": "Higher thinking and processing",
+      "topic": "cognition"
+    },
+    {
+      "term": "Cerebrum",
+      "structure": "Largest brain region",
+      "function": "Thinking, perception, voluntary actions",
+      "topic": "cognition"
+    },
+    {
+      "term": "Circadian Rhythms",
+      "definition": "24-hour biological cycles",
+      "topic": "sleep"
+    },
+    {
+      "term": "Cochlea",
+      "structure": "Inner ear organ",
+      "function": "Converts sound into neural signals",
+      "topic": "sensory"
+    },
+    {
+      "term": "Cognitive Behavioral Therapy",
+      "definition": "Therapy that changes negative thought patterns",
+      "topic": "treatment"
+    },
+    {
+      "term": "Computational Neuroscience",
+      "definition": "Study of brain using math and computer models",
+      "topic": "research"
+    },
+    {
+      "term": "Cones",
+      "structure": "Retinal cells",
+      "function": "Color vision and daylight vision",
+      "topic": "vision"
+    },
+    {
+      "term": "Corpus Callosum",
+      "structure": "Fiber bundle between hemispheres",
+      "function": "Connects left and right brain",
+      "topic": "anatomy"
+    },
+
+    {
+      "term": "Cortisol",
+      "definition": "Stress hormone released by adrenal cortex",
+      "topic": "hormones"
+    },
+    {
+      "term": "Cranial Nerves",
+      "structure": "12 nerve pairs",
+      "function": "Control sensory and motor functions of head",
+      "topic": "nervous system"
+    },
+    {
+      "term": "Critical Period",
+      "definition": "Time when brain is highly plastic",
+      "topic": "development"
+    },
+    {
+      "term": "Declarative Memory",
+      "definition": "Conscious memory of facts and events",
+      "topic": "memory"
+    },
+    {
+      "term": "Default Mode Network",
+      "definition": "Brain network active during rest",
+      "topic": "brain activity"
+    },
+    {
+      "term": "Dementia",
+      "definition": "Decline in cognitive function",
+      "topic": "disorders"
+    },
+    {
+      "term": "Dendrite",
+      "structure": "Branch-like neuron extension",
+      "function": "Receives signals",
+      "topic": "neuron"
+    },
+    {
+      "term": "Depolarization",
+      "definition": "Neuron becomes more positive",
+      "topic": "neurophysiology"
+    },
+    {
+      "term": "Depression",
+      "definition": "Mood disorder with persistent sadness",
+      "topic": "disorders"
+    },
+    {
+      "term": "Dopamine",
+      "definition": "Neurotransmitter involved in movement and reward",
+      "effects": {
+        "low": "Parkinson’s disease",
+        "high": "Schizophrenia"
+      },
+      "topic": "neurotransmission"
+    },
+  {
+    "term": "Down Syndrome",
+    "definition": "Genetic condition caused by an extra copy of chromosome 21 leading to developmental and physical differences.",
+    "topic": "genetics",
+    "important": "Higher risk of heart defects and learning disabilities."
+  },
+  {
+    "term": "Dyslexia",
+    "definition": "Difficulty with reading despite normal intelligence and education.",
+    "topic": "learning_disorders"
+  },
+  {
+    "term": "Electroencephalography (EEG)",
+    "definition": "Method to record electrical activity of the brain.",
+    "topic": "brain_imaging"
+  },
+  {
+    "term": "Endorphins",
+    "definition": "Neurotransmitters that reduce pain and create pleasure.",
+    "topic": "neurotransmitters",
+    "effects": "Increase → pain relief, euphoria"
+  },
+  {
+    "term": "Epilepsy",
+    "definition": "Disorder involving repeated seizures from abnormal brain activity.",
+    "topic": "neurological_disorders"
+  },
+  {
+    "term": "Epinephrine",
+    "definition": "Hormone (adrenaline) that prepares the body for stress.",
+    "topic": "hormones",
+    "effects": "Increase → fight-or-flight response"
+  },
+  {
+    "term": "Episodic Memory",
+    "definition": "Memory of personal experiences.",
+    "topic": "memory"
+  },
+  {
+    "term": "Estrogen",
+    "definition": "Primary female sex hormone.",
+    "topic": "hormones"
+  },
+  {
+    "term": "Excitation",
+    "definition": "Neuron becomes more likely to fire.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Excitatory",
+    "definition": "Increases likelihood a neuron will fire.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Executive Function",
+    "definition": "High-level thinking like planning, memory, and self-control.",
+    "topic": "cognition"
+  },
+  {
+    "term": "Forebrain",
+    "structure": "Front part of brain including cerebral hemispheres",
+    "function": "Controls thinking, emotion, and memory",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Fovea",
+    "structure": "Center of retina with many cones",
+    "function": "Sharp central vision",
+    "topic": "vision"
+  },
+  {
+    "term": "Fragile X Syndrome",
+    "definition": "Genetic disorder causing intellectual disability.",
+    "topic": "genetics"
+  },
+  {
+    "term": "Frontal Lobe",
+    "structure": "Front part of cerebral cortex",
+    "function": "Controls movement, planning, decision-making",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "fMRI",
+    "definition": "Brain imaging that tracks blood flow to show activity.",
+    "topic": "brain_imaging"
+  },
+  {
+    "term": "GABA",
+    "definition": "Main inhibitory neurotransmitter in the brain.",
+    "topic": "neurotransmitters",
+    "effects": "Low → anxiety, seizures; High → sedation"
+  },
+  {
+    "term": "Glia",
+    "definition": "Support cells that help neurons function.",
+    "topic": "cells"
+  },
+  {
+    "term": "Glucocorticoids",
+    "definition": "Stress hormones that regulate body response.",
+    "topic": "hormones"
+  },
+  {
+    "term": "Glutamate",
+    "definition": "Main excitatory neurotransmitter.",
+    "topic": "neurotransmitters",
+    "effects": "Excess → neuron damage (excitotoxicity)"
+  },
+  {
+    "term": "Gray Matter",
+    "structure": "Neuron cell bodies",
+    "function": "Processes information",
+    "topic": "brain_structure"
+  },
+  {
+    "term": "Growth Cone",
+    "structure": "Tip of growing axon",
+    "function": "Guides neuron growth",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Hair Cells",
+    "structure": "Cells in cochlea",
+    "function": "Convert sound vibrations to signals",
+    "topic": "hearing"
+  },
+  {
+    "term": "Hindbrain",
+    "structure": "Includes pons, medulla, cerebellum",
+    "function": "Controls basic survival functions",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Hippocampus",
+    "structure": "Limbic system structure",
+    "function": "Forms memories",
+    "topic": "brain_anatomy",
+    "important": "Damage → memory loss"
+  },
+  {
+    "term": "Histamine",
+    "definition": "Chemical involved in immune response and arousal.",
+    "topic": "neurotransmitters",
+    "effects": "Increase → wakefulness, inflammation"
+  },
+  {
+    "term": "Homeostasis",
+    "definition": "Maintaining stable internal conditions.",
+    "topic": "physiology"
+  },
+  {
+    "term": "Hormones",
+    "definition": "Chemical messengers from glands.",
+    "topic": "endocrine_system"
+  },
+  {
+    "term": "Huntington’s Disease",
+    "definition": "Genetic disorder causing movement and cognitive decline.",
+    "topic": "neurological_disorders"
+  },
+  {
+    "term": "Hyperpolarization",
+    "definition": "Neuron becomes less likely to fire.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Hypothalamus",
+    "structure": "Small brain region below thalamus",
+    "function": "Controls hormones, hunger, temperature",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Inhibition",
+    "definition": "Reduces likelihood of neuron firing.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Inhibitory",
+    "definition": "Prevents neuron firing.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Insomnia",
+    "definition": "Difficulty falling or staying asleep.",
+    "topic": "sleep_disorders"
+  },
+  {
+    "term": "Interneuron",
+    "definition": "Neuron that connects other neurons.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Involuntary Movement",
+    "definition": "Movement without conscious control.",
+    "topic": "motor_control"
+  },
+  {
+    "term": "Ion Channel",
+    "definition": "Protein that lets ions pass in/out of cells.",
+    "topic": "cell_biology"
+  },
+  {
+    "term": "Limbic System",
+    "structure": "Group of brain structures",
+    "function": "Emotion and motivation",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Long-Term Memory",
+    "definition": "Storage of information for long periods.",
+    "topic": "memory"
+  },
+  {
+    "term": "LTP",
+    "definition": "Long-lasting strengthening of synapses.",
+    "topic": "learning"
+  },
+  {
+    "term": "MRI",
+    "definition": "Imaging technique using magnetic fields.",
+    "topic": "brain_imaging"
+  },
+  {
+    "term": "MEG",
+    "definition": "Measures magnetic fields from brain activity.",
+    "topic": "brain_imaging"
+  },
+  {
+    "term": "Medulla",
+    "structure": "Brainstem region",
+    "function": "Controls breathing and heart rate",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Melatonin",
+    "definition": "Hormone that regulates sleep cycles.",
+    "topic": "hormones",
+    "effects": "Increase → sleepiness"
+  },
+  {
+    "term": "Membrane Potential",
+    "definition": "Voltage difference across neuron membrane.",
+    "topic": "neural_processes"
+  },
+  {
+    "term": "Mentalization",
+    "definition": "Understanding thoughts of self and others.",
+    "topic": "cognition"
+  },
+  {
+    "term": "Microglia",
+    "definition": "Immune cells of the brain.",
+    "topic": "cells"
+  },
+  {
+    "term": "Midbrain",
+    "structure": "Top of brainstem",
+    "function": "Movement, pain, alertness",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Migration",
+    "definition": "Movement of neurons to correct location.",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Mitochondria",
+    "definition": "Produces energy (ATP) for cells.",
+    "topic": "cell_biology"
+  },
+  {
+    "term": "Mood",
+    "definition": "Emotional state.",
+    "topic": "psychology"
+  },
+  {
+    "term": "Motor Cortex",
+    "structure": "Frontal lobe region",
+    "function": "Controls voluntary movement",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Motor Neuron",
+    "definition": "Carries signals to muscles.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Motor Unit",
+    "definition": "Motor neuron and muscle fibers it controls.",
+    "topic": "motor_control"
+  },
+  {
+    "term": "Myelin",
+    "definition": "Fatty layer that speeds signal transmission.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Narcolepsy",
+    "definition": "Disorder causing excessive daytime sleepiness.",
+    "topic": "sleep_disorders"
+  },
+  {
+    "term": "NGF",
+    "definition": "Supports neuron growth and survival.",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Neurodegeneration",
+    "definition": "Loss of neurons over time.",
+    "topic": "neurological_disorders"
+  },
+  {
+    "term": "Neurogenesis",
+    "definition": "Formation of new neurons.",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Neuromodulator",
+    "definition": "Chemical that changes neuron signaling strength.",
+    "topic": "neurotransmitters"
+  },
+  {
+    "term": "Neuron",
+    "definition": "Cell that transmits information.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Neurotransmitters",
+    "definition": "Chemicals that send signals between neurons.",
+    "topic": "neurotransmitters"
+  },
+  {
+    "term": "Neurotransmitter Receptors",
+    "definition": "Proteins that receive neurotransmitters.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Nociceptors",
+    "definition": "Pain-sensing receptors.",
+    "topic": "sensation"
+  },
+  {
+    "term": "Nodes of Ranvier",
+    "structure": "Gaps in myelin sheath",
+    "function": "Speed signal transmission",
+    "topic": "neurons"
+  },
+  {
+    "term": "Nondeclarative Memory",
+    "definition": "Unconscious memory (skills, habits).",
+    "topic": "memory"
+  },
+  {
+    "term": "Norepinephrine",
+    "definition": "Neurotransmitter for alertness and mood.",
+    "topic": "neurotransmitters",
+    "effects": "Low → depression; High → anxiety"
+  },
+  {
+    "term": "Nucleus Accumbens",
+    "structure": "Part of basal ganglia",
+    "function": "Reward and motivation",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Obsessive-compulsive Disorder",
+    "definition": "Condition with repetitive thoughts and behaviors.",
+    "topic": "mental_disorders"
+  },
+  {
+    "term": "Occipital Lobes",
+    "structure": "Back of brain",
+    "function": "Processes vision",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Olfactory Bulbs",
+    "structure": "Brain structures above nose",
+    "function": "Process smell",
+    "topic": "sensation"
+  },
+  {
+    "term": "Oligodendrocyte",
+    "definition": "Forms myelin in CNS.",
+    "topic": "cells"
+  },
+  {
+    "term": "Opioids",
+    "definition": "Pain-relieving substances.",
+    "topic": "neurochemistry",
+    "important": "Includes drugs like morphine; risk of addiction"
+  },
+  {
+    "term": "Optic Chiasm",
+    "structure": "Crossing of optic nerves",
+    "function": "Visual signal routing",
+    "topic": "vision"
+  },
+  {
+    "term": "Optic Nerve",
+    "structure": "Bundle from retina",
+    "function": "Sends visual info to brain",
+    "topic": "vision"
+  },
+  {
+    "term": "Orexin",
+    "definition": "Hormone that promotes wakefulness.",
+    "topic": "hormones"
+  },
+  {
+    "term": "Oxytocin",
+    "definition": "Hormone involved in bonding and childbirth.",
+    "topic": "hormones",
+    "effects": "Increase → social bonding"
+  },
+  {
+    "term": "Pain",
+    "definition": "Signal of potential or actual tissue damage.",
+    "topic": "sensation"
+  },
+  {
+    "term": "Paralysis",
+    "definition": "Loss of muscle function.",
+    "topic": "neurological_conditions"
+  },
+  {
+    "term": "Parasympathetic Branch",
+    "structure": "Part of autonomic nervous system",
+    "function": "Rest and conserve energy",
+    "topic": "nervous_system"
+  },
+  {
+    "term": "Parietal Lobes",
+    "structure": "Top of brain",
+    "function": "Processes touch and attention",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Parkinson’s Disease",
+    "definition": "Movement disorder from dopamine loss.",
+    "topic": "neurological_disorders",
+    "important": "Caused by loss of dopamine neurons"
+  },
+  {
+    "term": "Peripheral Nervous System",
+    "structure": "Nerves outside brain/spinal cord",
+    "function": "Connects body to CNS",
+    "topic": "nervous_system"
+  },
+  {
+    "term": "Photoreceptors",
+    "definition": "Cells that detect light.",
+    "topic": "vision"
+  },
+  {
+    "term": "Pineal Gland",
+    "structure": "Small brain gland",
+    "function": "Produces melatonin",
+    "topic": "endocrine_system"
+  },
+  {
+    "term": "Pituitary Gland",
+    "structure": "Endocrine gland",
+    "function": "Controls other glands",
+    "topic": "endocrine_system"
+  },
+  {
+    "term": "Plasticity",
+    "definition": "Brain’s ability to change and adapt.",
+    "topic": "learning"
+  },
+  {
+    "term": "Pons",
+    "structure": "Brainstem region",
+    "function": "Controls breathing and communication",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "PET",
+    "definition": "Imaging that tracks brain activity using radioactive tracers.",
+    "topic": "brain_imaging"
+  },
+  {
+    "term": "Postsynaptic Neuron",
+    "definition": "Neuron receiving signals.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Prefrontal Cortex",
+    "structure": "Front of frontal lobe",
+    "function": "Decision-making and planning",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Presynaptic Neuron",
+    "definition": "Neuron that sends signals across a synapse.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Prostaglandins",
+    "definition": "Lipid molecules that increase pain sensitivity.",
+    "topic": "neurochemistry",
+    "important": "Involved in inflammation and pain signaling"
+  },
+  {
+    "term": "REM Sleep",
+    "definition": "Sleep stage with dreaming and brain activity similar to waking.",
+    "topic": "sleep",
+    "important": "Body is temporarily paralyzed"
+  },
+  {
+    "term": "Reflexes",
+    "definition": "Automatic, rapid responses to stimuli.",
+    "topic": "motor_control"
+  },
+  {
+    "term": "Retina",
+    "structure": "Layer at back of eye",
+    "function": "Detects light and begins visual processing",
+    "topic": "vision"
+  },
+  {
+    "term": "Reuptake",
+    "definition": "Reabsorption of neurotransmitters after release.",
+    "topic": "neurotransmission"
+  },
+  {
+    "term": "Rods",
+    "structure": "Photoreceptors in retina periphery",
+    "function": "Detect low light (night vision)",
+    "topic": "vision"
+  },
+  {
+    "term": "Saltatory Conduction",
+    "definition": "Signal jumps between nodes of Ranvier to speed transmission.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Schizophrenia",
+    "definition": "Disorder involving hallucinations, delusions, and impaired thinking.",
+    "topic": "mental_disorders"
+  },
+  {
+    "term": "Schwann Cell",
+    "definition": "Glial cell that forms myelin in the peripheral nervous system.",
+    "topic": "cells"
+  },
+  {
+    "term": "SSRIs",
+    "definition": "Drugs that block serotonin reuptake to treat depression.",
+    "topic": "psychopharmacology",
+    "important": "Increase serotonin levels"
+  },
+  {
+    "term": "Semantic Memory",
+    "definition": "Memory of facts and general knowledge.",
+    "topic": "memory"
+  },
+  {
+    "term": "Serotonin",
+    "definition": "Neurotransmitter involved in mood, sleep, and appetite.",
+    "topic": "neurotransmitters",
+    "effects": "Low → depression; High → anxiety (in excess)"
+  },
+  {
+    "term": "Short-Term Memory",
+    "definition": "Temporary storage of small amounts of information.",
+    "topic": "memory"
+  },
+  {
+    "term": "Somatosensory Cortex",
+    "structure": "Parietal lobe region",
+    "function": "Processes touch and pain",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Spinal Cord",
+    "structure": "Bundle of nerves in vertebral column",
+    "function": "Sends signals between brain and body",
+    "topic": "nervous_system"
+  },
+  {
+    "term": "Stem Cells",
+    "definition": "Cells that can divide and become specialized cells.",
+    "topic": "cell_biology"
+  },
+  {
+    "term": "Stress",
+    "definition": "Response to challenges that disrupt balance.",
+    "topic": "physiology",
+    "important": "Can be helpful or harmful"
+  },
+  {
+    "term": "Striatum",
+    "structure": "Part of basal ganglia",
+    "function": "Involved in reward and movement",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Stroke",
+    "definition": "Loss of brain function due to blocked or ruptured blood vessel.",
+    "topic": "neurological_conditions",
+    "important": "Causes neuron death from lack of oxygen"
+  },
+  {
+    "term": "Substantia Nigra",
+    "structure": "Midbrain region",
+    "function": "Produces dopamine for movement and reward",
+    "topic": "brain_anatomy",
+    "important": "Degenerates in Parkinson’s disease"
+  },
+  {
+    "term": "Suprachiasmatic Nucleus (SCN)",
+    "structure": "Cluster in hypothalamus",
+    "function": "Controls circadian rhythms",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Sympathetic Branch",
+    "structure": "Autonomic nervous system division",
+    "function": "Activates fight-or-flight response",
+    "topic": "nervous_system"
+  },
+  {
+    "term": "Synapse",
+    "definition": "Gap where neurons communicate.",
+    "topic": "neurons"
+  },
+  {
+    "term": "Synaptic Plasticity",
+    "definition": "Ability of synapses to strengthen or weaken.",
+    "topic": "learning"
+  },
+  {
+    "term": "Synaptic Pruning",
+    "definition": "Removal of unused synapses.",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Taste Buds",
+    "structure": "Sensory organs on tongue",
+    "function": "Detect taste",
+    "topic": "sensation"
+  },
+  {
+    "term": "Temporal Lobes",
+    "structure": "Sides of brain",
+    "function": "Hearing, language, memory",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Testosterone",
+    "definition": "Primary male sex hormone.",
+    "topic": "hormones",
+    "important": "Also present in females at lower levels"
+  },
+  {
+    "term": "Thalamus",
+    "structure": "Deep brain structure",
+    "function": "Relays sensory information",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "Trophic Factors",
+    "definition": "Proteins that support neuron growth and survival.",
+    "topic": "neural_development"
+  },
+  {
+    "term": "Vagus Nerve",
+    "structure": "Cranial nerve X",
+    "function": "Controls heart, lungs, digestion",
+    "topic": "nervous_system"
+  },
+  {
+    "term": "Voluntary Movement",
+    "definition": "Movement under conscious control.",
+    "topic": "motor_control"
+  },
+  {
+    "term": "Wernicke’s Area",
+    "structure": "Temporal lobe region",
+    "function": "Language comprehension",
+    "topic": "brain_anatomy"
+  },
+  {
+    "term": "White Matter",
+    "structure": "Myelinated axons",
+    "function": "Transmits signals between brain regions",
+    "topic": "brain_structure"
+  },
+  {
+    "term": "Working Memory",
+    "definition": "Short-term holding and processing of information.",
+    "topic": "memory"
+  }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Unit 3: Movement": {
+    "Muscle Types": {
+      "Flexors": {
+        "Question": "What are muscles that bend a joint called?",
+        "Answer": "Flexors"
+      },
+      "Extensors": {
+        "Question": "What are muscles that straighten a joint called?",
+        "Answer": "Extensors"
+      },
+      "Agonists": {
+        "Question": "What are muscles that promote a movement called?",
+        "Answer": "Agonists"
+      },
+      "Antagonists": {
+        "Question": "What are muscles that oppose a movement called?",
+        "Answer": "Antagonists"
+      },
+      "Co-contraction": {
+        "Question": "What is co-contraction?",
+        "Answer": "When agonists and antagonists contract at the same time"
+      }
+    },
+
+    "Motor Units": {
+      "Definition": {
+        "Question": "What is a motor unit?",
+        "Answer": "The link between the central nervous system and skeletal muscles; consists of alpha motor neurons and muscle fibers"
+      },
+      "Alpha Motor Neurons": {
+        "Definition": {
+          "Question": "What are alpha motor neurons?",
+          "Answer": "Neurons that control muscle fibers"
+        },
+        "Neurotransmitter": {
+          "Question": "Which neurotransmitter do motor neurons use?",
+          "Answer": "Acetylcholine"
+        }
+      },
+      "ALS": {
+        "Definition": {
+          "Question": "What is amyotrophic lateral sclerosis (ALS)?",
+          "Answer": "A condition where motor neurons die"
+        },
+        "Effect": {
+          "Question": "What happens in ALS?",
+          "Answer": "People lose the ability to move"
+        }
+      }
+    },
+
+    "Reflexes": {
+      "Definition": {
+        "Question": "What is the most simple involuntary movement type?",
+        "Answer": "Reflexes, which depend on circuits of neurons located in or near the spinal cord"
+      },
+      "Knee Jerk Reflex": {
+        "Step 1": {
+          "Question": "What is the first step of the knee jerk reflex?",
+          "Answer": "A hammer strikes the knee"
+        },
+        "Step 2": {
+          "Question": "What happens after the knee is struck?",
+          "Answer": "The knee extensor muscle is slightly stretched"
+        },
+        "Step 3": {
+          "Question": "What detects the stretch in the muscle?",
+          "Answer": "Muscle spindles"
+        },
+        "Step 4": {
+          "Question": "What happens after muscle spindles detect the stretch?",
+          "Answer": "They stimulate sensory neurons that send information to the spinal cord"
+        },
+        "Step 5": {
+          "Question": "What happens in the spinal cord during the reflex?",
+          "Answer": "Alpha motor neurons are activated"
+        },
+        "Step 6": {
+          "Question": "What is the final result of the reflex?",
+          "Answer": "The stretched extensor muscle contracts, producing the reflex"
+        },
+        "Reciprocal Action": {
+          "Question": "What must happen to the antagonist muscle during this reflex?",
+          "Answer": "It must relax while the agonist contracts"
+        },
+        "Reciprocal Inhibition": {
+          "Question": "What is reciprocal inhibition?",
+          "Answer": "A process where activation of one muscle leads to inhibition of its antagonist"
+        },
+        "Mechanism": {
+          "Question": "How is reciprocal inhibition achieved?",
+          "Answer": "Through interneurons in the spinal cord"
+        }
+      }
+    },
+
+    "Movement Receptors": {
+      "Golgi Tendon Organs": {
+        "Location": {
+          "Question": "Where are Golgi tendon organs located?",
+          "Answer": "Where muscle fibers connect to the tendon"
+        },
+        "Function": {
+          "Question": "What is the function of Golgi tendon organs?",
+          "Answer": "Detect how much force is applied to the muscle during movement"
+        }
+      }
+    },
+
+    "Motor Cortex": {
+      "Definition": {
+        "Question": "What is the motor cortex?",
+        "Answer": "The region of the cortex in the frontal lobe that activates motor neurons in the spinal cord"
+      }
+    },
+
+    "Movement Disorders": {
+      "Huntington's Disease": {
+        "Definition": {
+          "Question": "What is Huntington's disease?",
+          "Answer": "A disorder characterized by uncontrolled jerking and twitching movements in the face and body"
+        },
+        "Cause": {
+          "Question": "What causes Huntington's disease?",
+          "Answer": "Loss of inhibitory neurons in the basal ganglia"
+        },
+        "Basal Ganglia Role": {
+          "Question": "What is the role of the basal ganglia in movement?",
+          "Answer": "It removes unwanted movements"
+        }
+      }
+    },
+
+    "Cerebellum and Movement": {
+      "Functions": {
+        "Question": "How does the cerebellum help with movement?",
+        "Answer": "Ensures proper timing, produces smooth and fluid movements, and is essential for motor learning and coordination"
+      },
+      "Damage Effects": {
+        "Question": "What happens when cerebellar function is lost?",
+        "Answer": "Poor coordination, poor balance, and difficulty in speech"
+      },
+      "Common Cause": {
+        "Question": "What is one common cause of cerebellar degeneration?",
+        "Answer": "Alcohol"
+      }
+    }
+  }
+}
