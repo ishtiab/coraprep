@@ -18,7 +18,7 @@ export default function CoraChatbot(){
       try { setMessages(JSON.parse(saved)) } catch (e) { setMessages([]) }
     } else {
       setMessages([
-        { id: 1, role: 'system', text: 'Cora AI is trained on BrainFacts Book 2018 PDF and ready to help you with neuroscience study questions.' }
+        { id: 1, role: 'system', text: 'Cora AI is temporarily disabled. You can still use all study features.' }
       ])
     }
   },[storageKey])
@@ -100,7 +100,7 @@ export default function CoraChatbot(){
             />
             <button onClick={send} disabled={loading || !input.trim()}>{loading ? 'Thinking...' : 'Send'}</button>
           </div>
-          <p className="cora-chatbot-note">Cora AI uses OpenAI API. Set OPENAI_API_KEY in .env.local for richer answers.</p>
+          <p className="cora-chatbot-note">Cora AI is temporarily disabled.</p>
         </div>
       )}
     </div>
