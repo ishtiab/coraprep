@@ -3,7 +3,7 @@ import OpenAI from 'openai'
 import fs from 'node:fs/promises'
 import path from 'node:path'
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+export const runtime = 'nodejs'
 
 const SYSTEM_PROMPT = `You are Cora AI, a friendly neuroscience tutor. Answer based on the provided context from BrainFacts Book. Be helpful and encouraging.`
 
@@ -25,6 +25,12 @@ type RagStore = {
 
 let cachedStore: RagStore | null = null
 let cachedChunksWithNorm: Array<RagChunk & { norm: number }> | null = null
+
+function getOpenAIClient() {
+  const apiKey = process.env.OPENAI_API_KEY
+  if (!apiKey) return null
+  return new OpenAI({ apiKey })
+}
 
 function l2Norm(vec: number[]) {
   let sum = 0
@@ -68,11 +74,11 @@ export async function POST(request: NextRequest){
     return NextResponse.json({ error: 'Message required' }, { status: 400 })
   }
 
-  const OPENAI_API_KEY = process.env.OPENAI_API_KEY || ''
-  if (!OPENAI_API_KEY) {
+  const openai = getOpenAIClient()
+  if (!openai) {
     return NextResponse.json(
       {
-        error: 'OPENAI_API_KEY not configured. Add OPENAI_API_KEY to .env.local and restart the server.',
+        error: 'OPENAI_API_KEY not configured. Add OPENAI_API_KEY in your environment variables.',
       },
       { status: 500 },
     )
