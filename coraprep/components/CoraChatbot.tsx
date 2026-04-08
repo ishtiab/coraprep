@@ -18,7 +18,7 @@ export default function CoraChatbot(){
       try { setMessages(JSON.parse(saved)) } catch (e) { setMessages([]) }
     } else {
       setMessages([
-        { id: 1, role: 'system', text: 'Cora AI is temporarily disabled. You can still use all study features.' }
+        { id: 1, role: 'system', text: 'Ask Cora AI anything about neuroscience. (Powered by Gemini)' }
       ])
     }
   },[storageKey])
@@ -100,7 +100,7 @@ export default function CoraChatbot(){
             />
             <button onClick={send} disabled={loading || !input.trim()}>{loading ? 'Thinking...' : 'Send'}</button>
           </div>
-          <p className="cora-chatbot-note">Cora AI is temporarily disabled.</p>
+          <p className="cora-chatbot-note">Cora AI uses Gemini API. Set GEMINI_API_KEY in your environment variables to enable.</p>
         </div>
       )}
     </div>
