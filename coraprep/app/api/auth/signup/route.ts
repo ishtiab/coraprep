@@ -4,9 +4,11 @@ import jwt from 'jsonwebtoken'
 import fs from 'fs'
 import path from 'path'
 
-// In-memory user database (in production, use a real database)
-// For now, we'll store to a JSON file in /tmp
-const USERS_FILE = path.join(process.cwd(), 'users.json')
+// In production, use a real database.
+// On Vercel, the code directory is read-only, so we use /tmp (ephemeral).
+const USERS_FILE = process.env.VERCEL
+  ? path.join('/tmp', 'users.json')
+  : path.join(process.cwd(), 'users.json')
 
 function loadUsers() {
   try {

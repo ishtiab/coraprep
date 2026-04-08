@@ -4,7 +4,9 @@ import jwt from 'jsonwebtoken'
 import fs from 'fs'
 import path from 'path'
 
-const USERS_FILE = path.join(process.cwd(), 'users.json')
+const USERS_FILE = process.env.VERCEL
+  ? path.join('/tmp', 'users.json')
+  : path.join(process.cwd(), 'users.json')
 
 function loadUsers() {
   try {
