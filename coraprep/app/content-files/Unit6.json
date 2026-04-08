@@ -1,0 +1,264 @@
+{
+  "Unit 6: The Developing Brain": {
+    "Overview of Brain Development": {
+      "Process": {
+        "Step 1": {
+          "Question": "What is the first step in brain development?",
+          "Answer": "Signaling molecules turn specific genes on and off"
+        },
+        "Step 2": {
+          "Question": "What happens after gene signaling begins?",
+          "Answer": "Immature nerve cells form"
+        },
+        "Step 3": {
+          "Question": "What is proliferation in brain development?",
+          "Answer": "A series of cell divisions"
+        },
+        "Step 4": {
+          "Question": "What is migration in brain development?",
+          "Answer": "Neurons travel to their final destinations"
+        }
+      }
+    },
+
+    "Embryonic Layers": {
+      "Ectoderm": {
+        "Question": "What is the ectoderm?",
+        "Answer": "The outermost embryonic layer that forms first"
+      },
+      "Mesoderm": {
+        "Question": "What is the mesoderm?",
+        "Answer": "The middle embryonic layer"
+      },
+      "Mesoderm Function": {
+        "Question": "What role does the mesoderm play in brain development?",
+        "Answer": "It signals ectoderm cells to become nerve tissue"
+      },
+      "Neural Induction": {
+        "Question": "What is neural induction?",
+        "Answer": "The process where mesoderm signals ectoderm cells to become neural tissue"
+      },
+      "Endoderm": {
+        "Question": "What is the endoderm?",
+        "Answer": "The innermost embryonic layer"
+      }
+    },
+
+    "Early Development Timeline": {
+      "Brain Formation": {
+        "Question": "After how many weeks of gestation does the human brain begin to form?",
+        "Answer": "3 weeks"
+      }
+    },
+
+    "Signaling Molecules": {
+      "Function": {
+        "Question": "How do signaling molecules affect brain development?",
+        "Answer": "They turn genes on or off and influence nearby cells based on concentration"
+      },
+      "Gradient Effect": {
+        "Question": "How does distance from signaling molecules affect cells?",
+        "Answer": "Cells closer to the source are more affected, while those farther away are less affected"
+      },
+      "Example": {
+        "Question": "What is an example of a signaling molecule in development?",
+        "Answer": "Sonic hedgehog"
+      },
+      "Example Effect": {
+        "Question": "How does sonic hedgehog affect cell differentiation?",
+        "Answer": "Nearby cells may become glial cells, while distant cells may become interneurons"
+      }
+    },
+
+    "Proliferation": {
+      "Definition": {
+        "Question": "What is proliferation?",
+        "Answer": "A series of cell divisions that produce new cells"
+      },
+      "Cell Origin": {
+        "Question": "What cells do neurons arise from?",
+        "Answer": "Neural stem cells and progenitor cells"
+      },
+      "Symmetric Division": {
+        "Question": "What are symmetric divisions?",
+        "Answer": "Cell divisions that produce two identical cells"
+      },
+      "Asymmetric Division": {
+        "Question": "What are asymmetric divisions?",
+        "Answer": "Cell divisions that produce one proliferating cell and one cell that differentiates into a neuron or glial cell"
+      },
+      "Transition": {
+        "Question": "Do neural cells always divide symmetrically?",
+        "Answer": "No, they begin with symmetric division and later shift to asymmetric division"
+      },
+      "Microcephaly": {
+        "Definition": {
+          "Question": "What is microcephaly?",
+          "Answer": "A condition characterized by reduced brain size and neurological disabilities"
+        },
+        "Cause": {
+          "Question": "What causes microcephaly?",
+          "Answer": "Protein defects that cause early transition from symmetric to asymmetric division"
+        }
+      },
+      "Megalencephaly": {
+        "Definition": {
+          "Question": "What is megalencephaly?",
+          "Answer": "A condition with an abnormally large and heavy brain"
+        },
+        "Cause": {
+          "Question": "What causes megalencephaly?",
+          "Answer": "Excessive proliferation"
+        }
+      }
+    },
+
+    "Migration": {
+      "Definition": {
+        "Question": "What is migration?",
+        "Answer": "The movement of neurons to their final positions after proliferation"
+      },
+      "Timing": {
+        "Question": "When does neuronal migration begin?",
+        "Answer": "3 to 4 weeks after conception"
+      },
+      "Early Development (Weeks 3-7)": {
+        "Step 1": {
+          "Question": "What is the first step between weeks 3 and 7?",
+          "Answer": "Cells divide"
+        },
+        "Step 2": {
+          "Question": "What forms after initial cell division?",
+          "Answer": "The neural plate with ridges on either side"
+        },
+        "Step 3": {
+          "Question": "What happens to the neural plate ridges?",
+          "Answer": "They fold together to form a hollow neural tube"
+        },
+        "Step 4": {
+          "Question": "What forms at the head of the neural tube?",
+          "Answer": "Three bulges: hindbrain, midbrain, and forebrain"
+        }
+      },
+      "After Week 7": {
+        "Step 1": {
+          "Question": "What appears after week 7?",
+          "Answer": "The first signs of eyes and brain hemispheres"
+        },
+        "Step 2": {
+          "Question": "Where do neurons migrate after week 7?",
+          "Answer": "Toward the outer surface of the brain"
+        },
+        "Step 3": {
+          "Question": "What happens when neurons reach their destination?",
+          "Answer": "They stop dividing and accumulate in an intermediate zone"
+        }
+      },
+      "Guidance": {
+        "Question": "What guides most neurons to their final destinations?",
+        "Answer": "Radial glia"
+      },
+      "Mechanism": {
+        "Question": "How do neurons migrate along radial glia?",
+        "Answer": "In an inside-out pattern, with older cells deeper and newer cells more superficial"
+      },
+      "Disruptions": {
+        "Causes": {
+          "Question": "What can disrupt proper neuronal migration?",
+          "Answer": "Alcohol, radiation, and cocaine"
+        },
+        "Effects": {
+          "Question": "What can result from disrupted migration?",
+          "Answer": "Intellectual disability or epilepsy"
+        }
+      }
+    },
+
+    "Axon Growth": {
+      "Mechanism": {
+        "Question": "How does a developing axon grow?",
+        "Answer": "Through the extension of its growth cone"
+      },
+      "Growth Cone": {
+        "Definition": {
+          "Question": "What is a growth cone?",
+          "Answer": "An enlarged structure at the tip of an axon"
+        },
+        "Function": {
+          "Question": "How does a growth cone guide axon development?",
+          "Answer": "Its receptors bind to environmental molecules that direct movement, turning, or stopping"
+        }
+      },
+      "Guidance Molecules": {
+        "Question": "What molecules guide axon growth cones?",
+        "Answer": "Protein families such as ephrin, semaphorin, and netrin"
+      }
+    },
+
+    "Synapse Development": {
+      "Astrocytes": {
+        "Question": "How do astrocytes help form synapses?",
+        "Answer": "They contact synapses and release molecules that promote development"
+      }
+    },
+
+    "Neurotransmitter Development": {
+      "Default NT": {
+        "Question": "What neurotransmitter does an isolated immature neuron produce?",
+        "Answer": "Norepinephrine"
+      },
+      "Cardiac Influence": {
+        "Question": "What neurotransmitter does an immature neuron produce when exposed to cardiac tissue?",
+        "Answer": "Acetylcholine"
+      }
+    },
+
+    "Myelination": {
+      "Speed Increase": {
+        "Question": "How much can myelination increase signal speed?",
+        "Answer": "Up to 100 times faster"
+      },
+      "Saltatory Conduction": {
+        "Question": "What is saltatory conduction?",
+        "Answer": "The process where electrical signals jump between nodes of Ranvier, increasing speed"
+      }
+    },
+
+    "Neuron Survival and Death": {
+      "Survival Rate": {
+        "Question": "What percentage of neurons survive into adulthood?",
+        "Answer": "About 50%"
+      },
+      "Apoptosis": {
+        "Definition": {
+          "Question": "What is apoptosis?",
+          "Answer": "Programmed cell death initiated by the cell"
+        },
+        "Trigger": {
+          "Question": "When does apoptosis occur in neurons?",
+          "Answer": "When neurons fail to receive trophic factors"
+        }
+      },
+      "Trophic Factors": {
+        "Definition": {
+          "Question": "What are trophic factors?",
+          "Answer": "Life-sustaining chemical signals"
+        },
+        "Example": {
+          "Question": "What is an example of a trophic factor?",
+          "Answer": "Nerve growth factor"
+        }
+      },
+      "Pruning": {
+        "Definition": {
+          "Question": "What is pruning?",
+          "Answer": "The removal of synapses during development"
+        },
+        "Cells Involved": {
+          "Question": "Which cells help with pruning?",
+          "Answer": "Astrocytes and other glial cells"
+        }
+      }
+    }
+  }
+}

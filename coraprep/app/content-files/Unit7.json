@@ -1,0 +1,110 @@
+{
+  "Chapter 7 - Infant, Child, and Adolescent Brain": [
+    {
+      "term": "Newborn Brain Weight",
+      "value": "370 grams (~13 oz, just under 1 lb)",
+      "topic": "development"
+    },
+    {
+      "term": "Adult Brain Weight",
+      "value": "~3 pounds",
+      "topic": "development"
+    },
+    {
+      "term": "Infant Brain Growth Rate",
+      "definition": "Rapid brain growth after birth.",
+      "details": {
+        "birth": "1% per day",
+        "3_months": "0.4% per day",
+        "90_days": "64% larger than at birth",
+        "age_5": "90% of adult brain size"
+      },
+      "topic": "development"
+    },
+    {
+      "term": "Synapse Density (Age 2)",
+      "definition": "2-year-olds have more synapses than adults.",
+      "details": {
+        "synapses": "50% more than adults",
+        "brain_size": "80% of adult size"
+      },
+      "topic": "development"
+    },
+    {
+      "term": "Human Brain Development Advantage",
+      "definition": "Humans are born with less developed brains.",
+      "important": "Allows more environmental shaping and adaptability",
+      "topic": "development"
+    },
+    {
+      "term": "Critical Period",
+      "definition": "Time when brain is highly sensitive to environment and experience.",
+      "topic": "development"
+    },
+    {
+      "term": "Adolescent Synaptic Pruning",
+      "definition": "Removal of unused synapses during adolescence.",
+      "important": "Also called competitive elimination",
+      "topic": "development"
+    },
+    {
+      "term": "Adolescent Brain Changes",
+      "definition": "Major brain development occurs during adolescence.",
+      "details": [
+        "Frontal lobe develops",
+        "White matter increases (especially corpus callosum)",
+        "Improved learning capacity",
+        "Increased risk-taking and sensation seeking",
+        "Higher addiction risk"
+      ],
+      "topic": "development"
+    },
+    {
+      "term": "Second Critical Period",
+      "definition": "Adolescence is another key period of brain plasticity.",
+      "topic": "development"
+    },
+    {
+      "term": "Diffusion Tensor Imaging (DTI)",
+      "definition": "Imaging technique that studies white matter quality.",
+      "topic": "brain_imaging"
+    },
+    {
+      "term": "Full Brain Development",
+      "value": "~30 years",
+      "topic": "development"
+    },
+    {
+      "term": "Brain Changes Before vs After 30",
+      "definition": "Differences in gray matter and myelination.",
+      "details": {
+        "before_30": [
+          "Gray matter increases (left temporal lobe: memory/language)",
+          "Myelin in visual, auditory, limbic areas"
+        ],
+        "after_30": [
+          "Gray matter decreases",
+          "Myelin more in frontal and parietal areas"
+        ]
+      },
+      "topic": "aging"
+    },
+    {
+      "term": "Plasticity",
+      "definition": "Brain’s ability to change and adapt.",
+      "topic": "learning"
+    },
+    {
+      "term": "Experience-Expectant Plasticity",
+      "definition": "Brain develops using common universal experiences.",
+      "examples": ["hearing language", "seeing faces"],
+      "topic": "learning"
+    },
+    {
+      "term": "Experience-Dependent Plasticity",
+      "definition": "Brain changes based on unique personal experiences.",
+      "example": "Violinists show enhanced brain areas for left-hand use",
+      "topic": "learning"
+    }
+  ]
+}

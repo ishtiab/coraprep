@@ -113,7 +113,19 @@ export default function Learn(){
     isFlashcardSaved,
     toggleFlashcardSaved,
   } = useApp()
-  const unitKeys = useMemo(() => Object.keys(content?.units || {}), [content])
+  const unitKeys = useMemo(() => {
+    const keys = Object.keys(content?.units || {})
+    const num = (s: string) => {
+      const m = s.match(/\d+/)
+      return m ? Number(m[0]) : Number.POSITIVE_INFINITY
+    }
+    return keys.sort((a, b) => {
+      const na = num(a)
+      const nb = num(b)
+      if (na !== nb) return na - nb
+      return a.localeCompare(b)
+    })
+  }, [content])
   const [unit, setUnit] = useState(unitKeys[0] || '')
   const [savedOnly, setSavedOnly] = useState(false)
   const [ratings, setRatings] = useState<Record<string, Rating>>({})

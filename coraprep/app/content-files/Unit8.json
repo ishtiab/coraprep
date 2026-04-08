@@ -1,0 +1,140 @@
+{
+  "Chapter 8 - Adult and Aging Brain": [
+    {
+      "term": "White Matter Peak",
+      "value": "Around age 40",
+      "topic": "aging"
+    },
+    {
+      "term": "Intelligence Peak",
+      "value": "Ages 25–60",
+      "topic": "cognition"
+    },
+    {
+      "term": "Fluid Intelligence",
+      "definition": "Ability to solve problems and detect patterns.",
+      "peak_age": "Around 30",
+      "topic": "cognition"
+    },
+    {
+      "term": "Crystallized Intelligence",
+      "definition": "Knowledge of facts and experience.",
+      "peak_age": "Increases until ~50",
+      "topic": "cognition"
+    },
+    {
+      "term": "Memory and Aging",
+      "definition": "Different memory systems age differently.",
+      "details": [
+        "Declarative memory declines",
+        "Nondeclarative memory mostly preserved",
+        "Working memory declines from ~30"
+      ],
+      "topic": "memory"
+    },
+    {
+      "term": "Attention and Aging",
+      "definition": "Divided attention becomes harder with age.",
+      "topic": "cognition"
+    },
+    {
+      "term": "Brain Volume Decline",
+      "definition": "Brain shrinks with age.",
+      "details": {
+        "starts": "30s–40s",
+        "accelerates": "around 60",
+        "most_affected": ["prefrontal cortex", "cerebellum", "hippocampus"]
+      },
+      "topic": "aging"
+    },
+    {
+      "term": "Neuron Changes with Age",
+      "definition": "Structural decline in neurons.",
+      "details": [
+        "Neurons shrink",
+        "Dendrites shrink and lose spines",
+        "Myelin loss"
+      ],
+      "topic": "aging"
+    },
+    {
+      "term": "Cortex Thinning",
+      "definition": "Cerebral cortex becomes thinner with age.",
+      "details": {
+        "most_affected": ["frontal lobe", "temporal lobe"]
+      },
+      "topic": "aging"
+    },
+    {
+      "term": "Last In First Out Theory",
+      "definition": "Brain regions that develop last degenerate first.",
+      "example": "Association fibers",
+      "topic": "aging"
+    },
+    {
+      "term": "Thin Spines",
+      "definition": "Type of dendritic spine.",
+      "possible_function": "Working memory",
+      "topic": "neurons"
+    },
+    {
+      "term": "Neurotransmitters and Aging",
+      "definition": "Chemical signaling changes with age.",
+      "details": [
+        "Less dopamine (fewer receptors)",
+        "Possible serotonin decline"
+      ],
+      "topic": "neurotransmitters"
+    },
+    {
+      "term": "DNA Damage and Aging",
+      "definition": "Accumulated cellular damage contributes to aging.",
+      "details": [
+        "Mitochondria produce free radicals",
+        "Defense systems weaken with age",
+        "Linked to Alzheimer’s disease"
+      ],
+      "topic": "cell_biology"
+    },
+    {
+      "term": "Brain Energy Use",
+      "value": "Uses ~20% of body’s energy",
+      "important": "Aging reduces ability to meet energy demand",
+      "topic": "physiology"
+    },
+    {
+      "term": "Immune Dysfunction in Aging",
+      "definition": "Changes in brain immune cells.",
+      "details": [
+        "Microglia become overactive",
+        "Leads to inflammation"
+      ],
+      "topic": "aging"
+    },
+    {
+      "term": "Molecular Buildup",
+      "definition": "Waste accumulates in neurons with age.",
+      "important": "Neurons replace slowly → buildup causes issues",
+      "topic": "aging"
+    },
+    {
+      "term": "Slowing Brain Aging",
+      "definition": "Lifestyle factors that help maintain brain health.",
+      "details": {
+        "diet": "Fruits, vegetables, low meat/dairy",
+        "nutrients": [
+          "Antioxidants (vitamin C, E)",
+          "Flavonoids",
+          "Omega-3 fatty acids"
+        ],
+        "habits": [
+          "Calorie reduction",
+          "Aerobic exercise (boosts neurogenesis)",
+          "Mental stimulation",
+          "Strong social connections"
+        ]
+      },
+      "topic": "health"
+    }
+  ]
+}

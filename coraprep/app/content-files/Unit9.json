@@ -1,0 +1,167 @@
+{
+  "Chapter 9 - Brain States": {
+    "Sleep": {
+      "general": {
+        "driving": "Lack of sleep while driving is comparable to driving drunk"
+      },
+      "stages": {
+        "SWS": {
+          "name": "Slow Wave Sleep",
+          "waves": "High amplitude, low frequency",
+          "effect_of_sleep_deprivation": "More slow waves the longer a person stays awake",
+          "recall_if_awakened": "Fragmented thoughts"
+        },
+        "REM": {
+          "name": "Rapid Eye Movement Sleep",
+          "waves": "Low amplitude",
+          "atonia": {
+            "definition": "Loss of muscle tone (paralysis)",
+            "active_muscles": "Breathing and eye movement muscles"
+          }
+        },
+        "cycle": {
+          "duration": "90 minutes",
+          "distribution": {
+            "SWS": "75-80 minutes",
+            "REM": "10-15 minutes"
+          },
+          "trend": "REM increases the longer you sleep"
+        }
+      },
+      "wakefulness": {
+        "arousal_systems": true,
+        "neurotransmitters": [
+          "acetylcholine",
+          "norepinephrine",
+          "serotonin",
+          "glutamate"
+        ],
+        "orexin": {
+          "type": "Neuropeptide",
+          "function": "Regulates sleep-wake cycles and increases metabolic rate",
+          "activation": "Low blood sugar (insulin-induced)",
+          "loss_effect": "Narcolepsy"
+        },
+        "histamine": "Promotes wakefulness"
+      },
+      "neurotransmitter_balance": {
+        "awake": "High acetylcholine and norepinephrine",
+        "SWS": "Low acetylcholine and norepinephrine",
+        "REM": "High acetylcholine, low norepinephrine"
+      },
+      "sleep_regulation": {
+        "VLPO": {
+          "name": "Ventrolateral Preoptic Nucleus",
+          "function": "Suppresses wakefulness",
+          "mechanism": "Releases GABA and galanin",
+          "damage_effect": "Irreversible insomnia"
+        },
+        "circadian_rhythm": {
+          "structure": "Suprachiasmatic nucleus (SCN)",
+          "location": "Hypothalamus",
+          "function": "Master clock",
+          "reset": "Light exposure",
+          "connections": [
+            "VLPO",
+            "orexin neurons"
+          ]
+        },
+        "homeostatic_system": {
+          "function": "Tracks time awake and promotes sleep",
+          "adenosine": {
+            "function": "Promotes sleepiness by reducing arousal",
+            "accumulation": "Increases with wakefulness",
+            "reduction": "Decreases with sleep",
+            "blocked_by": "Caffeine"
+          }
+        }
+      },
+      "sleep_disorders": {
+        "daytime_sleepiness": {
+          "cause": "Sleep apnea"
+        },
+        "sleep_apnea": {
+          "definition": "Airway collapse during sleep causing breathing difficulty",
+          "effects": [
+            "Interrupted sleep",
+            "High blood pressure",
+            "Increased heart attack risk"
+          ],
+          "treatments": [
+            "Weight loss",
+            "Avoid alcohol",
+            "Sleep position change",
+            "CPAP machine"
+          ]
+        },
+        "REM_sleep_behavior_disorder": {
+          "cause": "Failure of paralysis during REM",
+          "treatments": [
+            "Parkinson’s drugs",
+            "Benzodiazepines",
+            "Clonazepam"
+          ]
+        },
+        "narcolepsy": {
+          "definition": "Sudden sleep attacks",
+          "REM_onset": "Very rapid",
+          "hallucinations": "Hypnagogic hallucinations",
+          "prevalence": "1 in 2000",
+          "cause": "Loss of orexin neurons",
+          "cataplexy": {
+            "definition": "Loss of muscle tone while awake",
+            "trigger": "Emotional experiences"
+          }
+        }
+      }
+    },
+    "Arousal_and_Attention": {
+      "arousal": {
+        "definition": "Body changes that motivate action",
+        "stimuli": [
+          "Neurotransmitters",
+          "External signals (light, noise, cheering)"
+        ]
+      },
+      "ANS": {
+        "name": "Autonomic Nervous System",
+        "function": "Controls involuntary actions (heart rate, breathing)",
+        "controlled_by": "Reticular activating system"
+      },
+      "attention": {
+        "types": {
+          "voluntary": "Endogenous",
+          "involuntary": "Exogenous"
+        },
+        "ventral_frontoparietal_network": {
+          "function": "Detects unexpected stimuli",
+          "location": "Right hemisphere"
+        }
+      },
+      "hemineglect": {
+        "definition": "Ignoring left side of space",
+        "cause": "Damage to right parietal cortex",
+        "other_names": [
+          "Spatial neglect",
+          "Unilateral neglect"
+        ]
+      },
+      "default_mode_network": {
+        "function": "Active during rest and introspection",
+        "regions": [
+          "Ventromedial PFC",
+          "Dorsomedial PFC",
+          "Anterior cingulate cortex",
+          "Posterior cingulate cortex",
+          "Lateral parietal cortex",
+          "Precuneus"
+        ],
+        "roles": [
+          "Daydreaming",
+          "Self-reflection",
+          "Memory recall"
+        ]
+      }
+    }
+  }
+}
